@@ -1,0 +1,41 @@
+# Dependencies
+node_modules
+yarn.lock
+
+# Build
+build
+public/build
+
+# Environment
+.env
+.env.local
+
+# Editor
+.idea
+.vscode
+
+# Other
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*.log
+
+# Development
+.next
+coverage
+
+# Production
+public/production
+
+# Temporary
+*.tmp
+*.log
+
+# Development
+.next
+coverage
+
+# Production
+public/production

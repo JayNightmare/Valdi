@@ -1,0 +1,4304 @@
+{
+    "data": [
+        {
+            "key": "2526!syllabusng_pos!52FC31B6F3BBAFBD16CD73F1CF760AC6",
+            "name": "3D Design Innovation BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!1D46DC94AC46E0FF8A8A03595DF2915D",
+            "name": "Accounting & Finance BSC HONS level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!1D46DC94AC46E0FF8A8A03595DF29177",
+            "name": "Accounting & Finance BSC HONS level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!1D46DC94AC46E0FF8A8A03595DF2918C",
+            "name": "Accounting & Finance BSC HONS level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2B6390614319CADEB6BFB8282204883F",
+            "name": "Accounting & Finance MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEAF2",
+            "name": "Accounting & Finance MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3DA0",
+            "name": "Advanced Industrial Manufacturing Systems MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2B6390614319CADEB6BFB828220487D3",
+            "name": "Advanced Product Design Engineering and Manufacturing MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4392AE8EF0E958B7325AD6B98F8FE4FF",
+            "name": "Advanced Product Design Engineering and Manufacturing MSc (PT, Yr 1)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4392AE8EF0E958B7325AD6B98F8FE500",
+            "name": "Advanced Product Design Engineering and Manufacturing MSc (PT, Yr 2)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3DB9",
+            "name": "Advanced Product Design Engineering MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED66D8",
+            "name": "Aerospace Engineering (Space Technology) BENG Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!E0F4F9BED0EBD077428EDD032D87983F",
+            "name": "Aerospace Engineering (Space Technology) BENG Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!52FC31B6F3BBAFBD16CD73F1CF760A25",
+            "name": "Aerospace Engineering (Space Technology) BENG Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!52FC31B6F3BBAFBD16CD73F1CF760A2C",
+            "name": "Aerospace Engineering (Space Technology) MENG L7",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C31429A",
+            "name": "Aerospace Engineering BENG Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3568",
+            "name": "Aerospace Engineering BENG Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3569",
+            "name": "Aerospace Engineering BENG Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!377A64B67255463D3B0CD9BE63B1480B",
+            "name": "Aerospace Engineering BSc Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D358B",
+            "name": "Aerospace Engineering FOUNDATION Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3550",
+            "name": "Aerospace Engineering MENG Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C31428F",
+            "name": "Aerospace Engineering MENG Level 7",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE8E6",
+            "name": "Aerospace Engineering MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4392AE8EF0E958B7325AD6B98F8FE53B",
+            "name": "Aerospace Engineering MSc (PT, Yr 1)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4392AE8EF0E958B7325AD6B98F8FE53C",
+            "name": "Aerospace Engineering MSc (PT, Yr 2)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE8D3",
+            "name": "Aesthetics & Art Theory MA",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3596",
+            "name": "Aircraft Engineering (Top Up) BEng Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF647",
+            "name": "Aircraft Engineering BENG HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3CF8",
+            "name": "Analytical Chemistry MSC PG",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3CF6",
+            "name": "Analytical Chemistry with Management Studies MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!21B89119EC6E7268726710C9CA4EF182",
+            "name": "Animation MA Full Time",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!21B89119EC6E7268726710C9CA4EF184",
+            "name": "Animation MA Full Time with Placement",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!21B89119EC6E7268726710C9CA4EF185",
+            "name": "Animation MA Part Time Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!64AD47539827F30909181D5C40DEEAF5",
+            "name": "Animation MA Part Time Year 2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF2E5",
+            "name": "Architecture BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF2E6",
+            "name": "Architecture BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF2E7",
+            "name": "Architecture BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEAFE",
+            "name": "Architecture MARCH Full Time Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEAFF",
+            "name": "Architecture MARCH Full Time Year 2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE90F",
+            "name": "Art Business MA FT with Professional Placement",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE90E",
+            "name": "Art Business MA Full Time",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!A0EC26FDC57797263BC4EA879E7BAD42",
+            "name": "Art Business MA Part Time Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!21B89119EC6E7268726710C9CA4EF13F",
+            "name": "Art Business MA Part Time Year 2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!574780F0A154FE57A951515F9D23080C",
+            "name": "Artificial Intelligence MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2B6390614319CADEB6BFB82822048D43",
+            "name": "Aviation Engineering BENG HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF2F4",
+            "name": "Aviation Engineering BENG Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF2F5",
+            "name": "Aviation Engineering BENG Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!DD78CDEE099B21B1B698FD90BE374675",
+            "name": "Aviation Operations BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!DD78CDEE099B21B1B698FD90BE374676",
+            "name": "Aviation Operations BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!DD78CDEE099B21B1B698FD90BE374677",
+            "name": "Aviation Operations BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!DCFDD1015DCFCFB1F7E4FCD8D906BDA8",
+            "name": "Aviation Operations with Commercial Pilot Training BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!9B328652D6F15F01BB48C8CCA92BD8D8",
+            "name": "Aviation Operations with Commercial Pilot Training BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF54E",
+            "name": "BA Hons Music Technology BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF54F",
+            "name": "BA Hons Music Technology BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF550",
+            "name": "BA Hons Music Technology BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE914",
+            "name": "Banking & Finance MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4FDC2C0DD45355A70A4EA9462D234AD8",
+            "name": "Behavioural Decision Science MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C3142DA",
+            "name": "Biochemistry BSC HONS including Foundation Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3CDB",
+            "name": "Biochemistry BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF2FD",
+            "name": "Biochemistry BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF2FE",
+            "name": "Biochemistry BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF32C",
+            "name": "Biological Sciences (Genetics and Molecular Biology) BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF32D",
+            "name": "Biological Sciences (Genetics and Molecular Biology) BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF326",
+            "name": "Biological Sciences (Human Biology) BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF327",
+            "name": "Biological Sciences (Human Biology) BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF32A",
+            "name": "Biological Sciences (Medical Biology) BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF32B",
+            "name": "Biological Sciences (Medical Biology) BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2B6390614319CADEB6BFB82822048D76",
+            "name": "Biological Sciences BSC HONS including Foundation Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF323",
+            "name": "Biological Sciences BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2B6390614319CADEB6BFB828220487AB",
+            "name": "Biomedical Science - Haematology MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2B6390614319CADEB6BFB82822048D67",
+            "name": "Biomedical Science BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2B6390614319CADEB6BFB82822048D66",
+            "name": "Biomedical Science BSC HONS including Foundation Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3CE3",
+            "name": "Biomedical Science BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF318",
+            "name": "Biomedical Science BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF319",
+            "name": "Biomedical Science BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!AB480B487EFA7184E5E5B21E2BEECE53",
+            "name": "Biomedical Studies BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2B279C2C371ED009977D4D2F7B3F8393",
+            "name": "BSc (Hons) Advanced Pharmaceutics (Top-up)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5DA",
+            "name": "BSc (Hons) Psychology with Criminology BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5D8",
+            "name": "BSc (Hons) Psychology with Criminology BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5D9",
+            "name": "BSc (Hons) Psychology with Criminology BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2B279C2C371ED009977D4D2F7B3F837B",
+            "name": "BSc (Hons) Sport and Exercise Science (Coaching) Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FDBD0EDB6ED3D0C0C9F90E22C796907E",
+            "name": "BSc Hons Real Estate Management (Apprenticeship) BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FDBD0EDB6ED3D0C0C9F90E22C7969047",
+            "name": "Building Surveying BSC HONS - Degree Apprenticeship Year 5 Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4E599D586213AE8AB842B0188BF34FF8",
+            "name": "Building Surveying BSC HONS - Degree Apprenticheship Year 1 Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FDBD0EDB6ED3D0C0C9F90E22C7969046",
+            "name": "Building Surveying BSC HONS - Degree Apprenticheship Year 2 Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF65C",
+            "name": "Building Surveying BSC HONS - Degree Apprenticheship Year 3 Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF662",
+            "name": "Building Surveying BSC HONS - Degree Apprenticheship Year 4 Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C31431F",
+            "name": "Building Surveying BSC HONS - Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FDBD0EDB6ED3D0C0C9F90E22C7968EDC",
+            "name": "Building Surveying BSC HONS - Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!E887127A962B363AE136D10A5F25BC26",
+            "name": "Building Surveying BSC HONS - Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED6894",
+            "name": "Building Surveying BSC HONS Part-Time Year 1 Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED6895",
+            "name": "Building Surveying BSC HONS Part-Time Year 2 Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!14858C5C8185AD7F2A7D2F8712DD45D6",
+            "name": "Building Surveying BSC HONS Part-Time Year 3 Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED6896",
+            "name": "Building Surveying BSC HONS Part-Time Year 4 Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF65A",
+            "name": "Building Surveying BSC HONS Part-Time Year 5 Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED6893",
+            "name": "Building Surveying BSC HONS PT Year 5 Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE947",
+            "name": "Building Surveying MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EED14",
+            "name": "Building Surveying MSC - Part Time Year 1 Level 7",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!EFC852E0CC63F363B074039C04B59454",
+            "name": "Building Surveying MSC - Part Time Year 2 of 2 Level 7",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EED16",
+            "name": "Building Surveying MSC Part Time - Year 2 Level 7",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!A401FB53368EDDE45E11A1C2B6F2C865",
+            "name": "Building Surveying with Professional Placement BSC HONS SW Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF346",
+            "name": "Business Administration BBA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!CEB82516E3D97C28EA4E77459EE5FA8F",
+            "name": "Business and Accounting with Professional Placement BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!5C0821EE4BC03DC2A1DC15DA7D68E655",
+            "name": "Business and Accounting with Professional Placement BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!5C0821EE4BC03DC2A1DC15DA7D68E65B",
+            "name": "Business and Accounting with Professional Placement BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3289",
+            "name": "Business and English Literature BA HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF307",
+            "name": "Business Economics BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF308",
+            "name": "Business Economics BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF309",
+            "name": "Business Economics BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF30A",
+            "name": "Business Economics inc Foundation Year 4FT BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF33C",
+            "name": "Business Exchange UG CREDIT CERT Norway",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!39842172FF5A9908F9AEEA84AE5A1C20",
+            "name": "Business Management & Marketing BSC HONS - Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!D5BCA90482D584E5A420EAB0F062ECB0",
+            "name": "Business Management & Marketing BSC HONS - Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!813A49C2E21F3F90D1285E294AEE56A0",
+            "name": "Business Management & Marketing BSC HONS - Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF806",
+            "name": "Business Management (Entrepreneurship) with business experience BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF808",
+            "name": "Business Management (Finance ) with business experience BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2B6390614319CADEB6BFB82822048D51",
+            "name": "Business Management and Digital Innovation BSC HONS - Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!8DBA37E7B6197F7DFE2D9385C81D7878",
+            "name": "Business Management and Digital Innovation BSC HONS - Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!39842172FF5A9908F9AEEA84AE5A1C1D",
+            "name": "Business Management and Entrepreneurship BSC HONS - Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2B6390614319CADEB6BFB82822048D5A",
+            "name": "Business Management and Entrepreneurship BSC HONS - Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!994E7806E02EF1B404B414EF55173FB4",
+            "name": "Business Management BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED66EE",
+            "name": "Business Management BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED66EF",
+            "name": "Business Management BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF31E",
+            "name": "Business Psychology BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF31F",
+            "name": "Business Psychology BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!419B3C3E2D5930D82E3B68CCD0C422D5",
+            "name": "Business Psychology BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF321",
+            "name": "Business Psychology with Foundation BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3CBD",
+            "name": "Cancer Biology MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C314352",
+            "name": "Chemistry BSC HONS inc Foundation year Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C31434E",
+            "name": "Chemistry BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF372",
+            "name": "Chemistry BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF373",
+            "name": "Chemistry BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF36F",
+            "name": "Chemistry MCHEM Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF370",
+            "name": "Chemistry MCHEM Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE99C",
+            "name": "Child Psychology MSC Yr 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!DC71C3630ED5593CC21511FC9B5CE51A",
+            "name": "Civil & Infrastructure Engineering BENG HONS - Degree Apprenticeship Year 1 Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF66D",
+            "name": "Civil & Infrastructure Engineering BENG HONS - Degree Apprenticeship Year 2 Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF66E",
+            "name": "Civil & Infrastructure Engineering BENG HONS - Degree Apprenticeship Year 4 Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF66F",
+            "name": "Civil & Infrastructure Engineering BENG HONS - Degree Apprenticeship Year 4 Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF670",
+            "name": "Civil & Infrastructure Engineering BENG HONS - Degree Apprenticeship Year 5 Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C31435F",
+            "name": "Civil & Infrastructure Engineering BENG HONS - Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!3D10EBDB95F454A960D4C6A8E6D2E657",
+            "name": "Civil & Infrastructure Engineering BENG HONS - Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF387",
+            "name": "Civil & Infrastructure Engineering BENG HONS - Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF38D",
+            "name": "Civil & Infrastructure Engineering BENG HONS incl. Foundation Year - Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED689F",
+            "name": "Civil & Infrastructure Engineering BENG HONS Part - Time Year 2 Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF669",
+            "name": "Civil & Infrastructure Engineering BENG HONS Part-Time Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF668",
+            "name": "Civil & Infrastructure Engineering BENG HONS Part-Time Year 5 Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF667",
+            "name": "Civil & Infrastructure Engineering BENG HONS PT Year 4 Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED68A0",
+            "name": "Civil & Infrastructure Engineering BENG HONS Year 3 Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED6715",
+            "name": "Civil & Infrastructure Engineering incl. Foundation Yr BENG HONS - Foundation Year Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FDBD0EDB6ED3D0C0C9F90E22C7968EF7",
+            "name": "Civil & Infrastructure Engineering incl. Foundation Yr BENG HONS - Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF38A",
+            "name": "Civil & Infrastructure Engineering incl. Foundation Yr BENG HONS - Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF38B",
+            "name": "Civil & Infrastructure Engineering incl. Foundation Yr BENG HONS - Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF38C",
+            "name": "Civil & Infrastructure Engineering including Foundation Year BENG HONS - Foundation Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED6716",
+            "name": "Civil & Infrastructure Engineering including Foundation Year BENG HONS - Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!A9A2E24B44CE19851E402A07C84EE289",
+            "name": "Civil & Infrastructure Engineering including Foundation Year BENG HONS - Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF716",
+            "name": "Civil & Infrastructure Engineering with Professional Placement BENG HONS SW - Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF717",
+            "name": "Civil & Infrastructure Engineering with Professional Placement BENG HONS SW - Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!A401FB53368EDDE45E11A1C2B6F2C864",
+            "name": "Civil & Infrastructure Engineering with Professional Placement BENG HONS SW Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED6935",
+            "name": "Civil & Infrastructure Engineering with Professional Placement BENG HONS SW Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!31FCC3CF6B3DCC3CE9953F6619FB43F4",
+            "name": "Civil Engineering with Foundation Year BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF361",
+            "name": "Civil Engineering with Foundation Year BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!E887127A962B363AE136D10A5F25BC25",
+            "name": "Civil Engineering with Foundation Year BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D2F04",
+            "name": "Clinical Applications of Psychology MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4FDC2C0DD45355A70A4EA9462D234D54",
+            "name": "Clinical Leadership MSC B",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE960",
+            "name": "Composing for Film & TV MMUS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE9CB",
+            "name": "Computer Animation MA",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF366",
+            "name": "Computer Games Programming BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!89AAA967A2FB90B5BAF2EA66D6711077",
+            "name": "Computer Games Programming BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D38B6",
+            "name": "Computer Science (Games Programming) BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D38B7",
+            "name": "Computer Science (Games Programming) BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D38B8",
+            "name": "Computer Science (Games Programming) BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D38CC",
+            "name": "Computer Science (Network Communications) BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!39842172FF5A9908F9AEEA84AE5A1C3F",
+            "name": "Computer Science and Artificial Intelligence BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!39842172FF5A9908F9AEEA84AE5A1C40",
+            "name": "Computer Science and Artificial Intelligence BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!39842172FF5A9908F9AEEA84AE5A1C41",
+            "name": "Computer Science and Artificial Intelligence BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3DE",
+            "name": "Computer Science BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C3143AE",
+            "name": "Computer Science BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3DD",
+            "name": "Computer Science BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C3143A7",
+            "name": "Computer Science inc Foundation Year (4FT) BSC HONS Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C3143A9",
+            "name": "Computer Science inc Foundation Year (4FT) BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF364",
+            "name": "Construction Engineering Management BSC HONS - Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED6709",
+            "name": "Construction Engineering Management BSC HONS - Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF365",
+            "name": "Construction Engineering Management BSC HONS - Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED670A",
+            "name": "Construction Engineering Management BSC HONS - Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE8D0",
+            "name": "Construction Engineering Management BSC HONS - Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!943936F50531079EA4AF6E56B184B5E1",
+            "name": "Construction Engineering Management BSC HONS - Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED692A",
+            "name": "Construction Engineering Management with Professional Placement BSC HONS SW Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED692B",
+            "name": "Construction Engineering Management with Professional Placement BSC HONS SW Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED692C",
+            "name": "Construction Engineering Management with Professional Placement BSC HONS SW Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF38E",
+            "name": "Construction Management BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF38F",
+            "name": "Construction Management BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF390",
+            "name": "Construction Management BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED672C",
+            "name": "Creative  Writing BA HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3CB",
+            "name": "Creative  Writing BA HONS - Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!A6C7ACBF53FD70D329A76F6279C5925F",
+            "name": "Creative  Writing BA HONS - Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF398",
+            "name": "Creative & Professional Writing BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF399",
+            "name": "Creative & Professional Writing BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF348",
+            "name": "Creative and Cultural Industries: Art Direction BA HONS Level 4 Full Time",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF349",
+            "name": "Creative and Cultural Industries: Art Direction BA HONS Level 5 Full Time",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF34A",
+            "name": "Creative and Cultural Industries: Art Direction BA HONS Level 6 Full Time",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF358",
+            "name": "Creative and Cultural Industries: Design Marketing BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF359",
+            "name": "Creative and Cultural Industries: Design Marketing BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF35A",
+            "name": "Creative and Cultural Industries: Design Marketing BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!976B145D5CFEB9A3789302190FBDBAB5",
+            "name": "Creative and Cultural Industries: Events and Experiences Design BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!3C5002588CE1CAA8B98092332E2B9A42",
+            "name": "Creative and Cultural Industries: Events and Experiences Design BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!3C5002588CE1CAA8B98092332E2B9A44",
+            "name": "Creative and Cultural Industries: Events and Experiences Design BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF396",
+            "name": "Creative Practice Grad Diploma Full Time",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3D1",
+            "name": "Creative Writing & Film Cultures BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3D2",
+            "name": "Creative Writing & Film Cultures BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4FDC2C0DD45355A70A4EA9462D234A79",
+            "name": "Creative Writing and Criminology BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D31A3",
+            "name": "Creative Writing and Drama BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D31A6",
+            "name": "Creative Writing and English Language & Linguistics BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D342C",
+            "name": "Creative Writing and English Literature BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!0AE4FECD448C9268BA5B26B7DC0EA481",
+            "name": "Creative Writing and English Literature inc Fnd BA HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!5E7BE1B5B6A23808DD367FDB95AC4B97",
+            "name": "Creative Writing and Publishing MA",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3CC",
+            "name": "Creative Writing BA HONS with Foundation",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE9A3",
+            "name": "Creative Writing MA",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE9A2",
+            "name": "Creative Writing MA FT Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE9A6",
+            "name": "Creative Writing MFA",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE9A5",
+            "name": "Creative Writing MFA Full time Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3233",
+            "name": "Creative Writing with English Literature BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4FDC2C0DD45355A70A4EA9462D234AA6",
+            "name": "Creative Writing with History BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D31D4",
+            "name": "Creative Writing with Psychology BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED671F",
+            "name": "Criminology & Forensic Psychology BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3AA",
+            "name": "Criminology & Forensic Psychology BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3AB",
+            "name": "Criminology & Forensic Psychology BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3AC",
+            "name": "Criminology & Forensic Psychology BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C314383",
+            "name": "Criminology & International Relations BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3B8",
+            "name": "Criminology & International Relations BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3B9",
+            "name": "Criminology & International Relations BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3C8",
+            "name": "Criminology & Sociology BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3C3",
+            "name": "Criminology & Sociology BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3C4",
+            "name": "Criminology & Sociology BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3C5",
+            "name": "Criminology & Sociology BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D317D",
+            "name": "Criminology and Human Rights BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3A0",
+            "name": "Criminology BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3A1",
+            "name": "Criminology BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3A2",
+            "name": "Criminology BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3A3",
+            "name": "Criminology inc Fnd BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE99E",
+            "name": "Criminology MA Yr 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE9A0",
+            "name": "Criminology with Forensic Psychology MA Yr 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE95C",
+            "name": "Curating Contemporary Design MA FT with Professional Placement",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE959",
+            "name": "Curating Contemporary Design MA Full Time",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!8A7C69677A875C00E25146917F10676F",
+            "name": "Curating Contemporary Design MA Part Time Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!8A7C69677A875C00E25146917F106770",
+            "name": "Curating Contemporary Design MA Part Time Year 2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C31432D",
+            "name": "Cyber Security & Computer Forensics BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF34E",
+            "name": "Cyber Security & Computer Forensics BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!89AAA967A2FB90B5BAF2EA66D6711063",
+            "name": "Cyber Security & Computer Forensics BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3BE8",
+            "name": "Cyber Security & Computer Forensics with Business BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3BC9",
+            "name": "Cyber Security & Computer Forensics with Business BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C314335",
+            "name": "Cyber Security & Computer Forensics with Business inc Foundation Year  (4FT) BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3EB",
+            "name": "Cyber Security & Digital Forensics BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!1438DF7D3249BFD7CCDC44EDCB0143BF",
+            "name": "Cyber Security & Digital Forensics BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2B6390614319CADEB6BFB82822048DB5",
+            "name": "Dance & Drama BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3F7",
+            "name": "Dance & Drama BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3F8",
+            "name": "Dance & Drama BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3EF",
+            "name": "Dance BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3F0",
+            "name": "Dance BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3F1",
+            "name": "Dance BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE9DA",
+            "name": "Data Science MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3FD",
+            "name": "Digital Business BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3FC",
+            "name": "Digital Business BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF406",
+            "name": "Digital Media Technology BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF407",
+            "name": "Digital Media Technology BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF408",
+            "name": "Digital Media Technology BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!3371CF3CCD550F50F7C70AEFF7FE034E",
+            "name": "Doctorate Occupational & Business Psychology",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF414",
+            "name": "Drama & Creative Writing BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF41C",
+            "name": "Drama and English BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF41D",
+            "name": "Drama and English BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF429",
+            "name": "Drama and Theatre Arts BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D2ED5",
+            "name": "Drama BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D2ED6",
+            "name": "Drama BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!994E7806E02EF1B404B414EF55173FFA",
+            "name": "Drama BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF43A",
+            "name": "Economics BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF43B",
+            "name": "Economics BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF43C",
+            "name": "Economics BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF43D",
+            "name": "Economics inc Foundation Year 4FT BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!ACA85ED7C1140AD9F6A2C16B09877648",
+            "name": "Electrical and Electronics Engineering BEng (Hons) Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!702EC15D86DE8379C48E95010121CBA9",
+            "name": "Electrical and Electronics Engineering BEng (Hons) Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!702EC15D86DE8379C48E95010121CBAA",
+            "name": "Electrical and Electronics Engineering BEng (Hons) Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!ACA85ED7C1140AD9F6A2C16B09877698",
+            "name": "Electrical and Electronics Engineering MEng (Hons) - Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!702EC15D86DE8379C48E95010121CBAB",
+            "name": "Electrical and Electronics Engineering MEng (Hons) - Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!702EC15D86DE8379C48E95010121CBAC",
+            "name": "Electrical and Electronics Engineering MEng (Hons) - Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!702EC15D86DE8379C48E95010121CBAD",
+            "name": "Electrical and Electronics Engineering MEng (Hons) - Level 7",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!16870477C3C072CCAB6407DEBAA5DCC6",
+            "name": "Electronic Products Engineering BEng (Hons) Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!702EC15D86DE8379C48E95010121CC04",
+            "name": "Electronic Products Engineering BEng (Hons) Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!702EC15D86DE8379C48E95010121CC05",
+            "name": "Electronic Products Engineering BEng (Hons) Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!16870477C3C072CCAB6407DEBAA5DCC7",
+            "name": "Electronic Products Engineering MEng (Hons) Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!702EC15D86DE8379C48E95010121CC00",
+            "name": "Electronic Products Engineering MEng (Hons) Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!702EC15D86DE8379C48E95010121CC01",
+            "name": "Electronic Products Engineering MEng (Hons) Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!702EC15D86DE8379C48E95010121CC02",
+            "name": "Electronic Products Engineering MEng (Hons) Level 7",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!16870477C3C072CCAB6407DEBAA5DCE9",
+            "name": "Electronics and Robotics MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4FDC2C0DD45355A70A4EA9462D234D6B",
+            "name": "Embedded Systems (Computer Vision) MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE9FE",
+            "name": "Engineering Projects & Systems Management MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF458",
+            "name": "English and Creative Writing BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF45C",
+            "name": "English and Creative Writing with foundation BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF454",
+            "name": "English BA HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED6769",
+            "name": "English BA HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF452",
+            "name": "English BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!A6C7ACBF53FD70D329A76F6279C59251",
+            "name": "English BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF44D",
+            "name": "English Literature BA HONS - Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!0AE4FECD448C9268BA5B26B7DC0EA48A",
+            "name": "English Literature including Foundation Year 4FT BA HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF447",
+            "name": "Entrepreneurship and Innovation Management BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE9EF",
+            "name": "Environmental Management MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!A401FB53368EDDE45E11A1C2B6F2C853",
+            "name": "Environmental Science  BSC HONS DA Level 6.1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF680",
+            "name": "Environmental Science BSC HONS - DA Level 4.1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF681",
+            "name": "Environmental Science BSC HONS - DA Level 4.2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF682",
+            "name": "Environmental Science BSC HONS - DA Level 5.1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED68B3",
+            "name": "Environmental Science BSC HONS DA Level 5.2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED677E",
+            "name": "Environmental Science BSC HONS including Foundation Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED677F",
+            "name": "Environmental Science BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!A401FB53368EDDE45E11A1C2B6F2C84D",
+            "name": "Environmental Science BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!A401FB53368EDDE45E11A1C2B6F2C852",
+            "name": "Environmental Science BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED68AE",
+            "name": "Environmental Science BSC HONS Part-Time Year 1 Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!A401FB53368EDDE45E11A1C2B6F2C854",
+            "name": "Environmental Science BSC HONS Part-Time Year 3 Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED68B0",
+            "name": "Environmental Science BSC HONS Year 4 Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED677C",
+            "name": "Environmental Science with Hazards and Disasters BSC HONS including Foundation Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C314446",
+            "name": "Environmental Science with Hazards and Disasters BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FDBD0EDB6ED3D0C0C9F90E22C7968F75",
+            "name": "Environmental Science with Hazards and Disasters BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED677B",
+            "name": "Environmental Science with Hazards and Disasters BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF760",
+            "name": "Environmental Science with Hazards and Disasters with Professional Placement BSC HONS SW Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF761",
+            "name": "Environmental Science with Hazards and Disasters with Professional Placement BSC HONS SW Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF765",
+            "name": "Environmental Science with Professional Placement BSC HONS SW Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF766",
+            "name": "Environmental Science with Professional Placement BSC HONS SW Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!A401FB53368EDDE45E11A1C2B6F2C855",
+            "name": "Environmental Science with Professional Placement BSC HONS SW Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF48A",
+            "name": "Fashion BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF48B",
+            "name": "Fashion BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF48C",
+            "name": "Fashion BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEA13",
+            "name": "Fashion MA Full Time",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EED7F",
+            "name": "Fashion MA Part Time Year 2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEA18",
+            "name": "Fashion MA Professional Placement",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!976B145D5CFEB9A3789302190FBDBAC9",
+            "name": "Fashion Promotion and Communication BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!3C5002588CE1CAA8B98092332E2B9A45",
+            "name": "Fashion Promotion and Communication BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!A0EC26FDC57797263BC4EA879E7BAD41",
+            "name": "Fashion Promotion and Communication BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EED85",
+            "name": "Film Making MA Part Time Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EED86",
+            "name": "Film Making MA Part Time Year 2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EED83",
+            "name": "Film Studies MA",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!E96BAB67E21D4441E19CA8A5CA04E42A",
+            "name": "Film Studies MA",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEA23",
+            "name": "Film Studies MA Full Time",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EED82",
+            "name": "Film Studies MA Part Time Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!E96BAB67E21D4441E19CA8A5CA04E429",
+            "name": "Film Studies MA Part Time Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF49B",
+            "name": "Filmmaking BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF49C",
+            "name": "Filmmaking BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF49D",
+            "name": "Filmmaking BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEA25",
+            "name": "Finance MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEA1C",
+            "name": "Financial & Business Management MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF48E",
+            "name": "Financial Economics BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF48F",
+            "name": "Financial Economics BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF490",
+            "name": "Financial Economics BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF491",
+            "name": "Financial Economics including Foundation Year (4 yr FT) BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!39842172FF5A9908F9AEEA84AE5A15AC",
+            "name": "Financial Technology MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF2EF",
+            "name": "Fine Art and Art History BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF2F0",
+            "name": "Fine Art and Art History BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF2E9",
+            "name": "Fine Art BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF2EA",
+            "name": "Fine Art BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF2EB",
+            "name": "Fine Art BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE910",
+            "name": "Fine Art MFA Full Time Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE912",
+            "name": "Fine Art MFA Full Time Year 2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4A3",
+            "name": "Forensic Psychology BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4A0",
+            "name": "Forensic Psychology BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4A1",
+            "name": "Forensic Psychology BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4A2",
+            "name": "Forensic Psychology BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!0AE4FECD448C9268BA5B26B7DC0EA48C",
+            "name": "Forensic Psychology inc Foundation Year BSC HONS Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEA30",
+            "name": "Forensic Psychology MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEA32",
+            "name": "Forensic Science (Analysis) MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEA35",
+            "name": "Forensic Science (Analysis) with Professional Placement MSCPP",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEA39",
+            "name": "Forensic Science (Toxicology) MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C31447A",
+            "name": "Forensic Science BSC HONS including Foundation Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3B56",
+            "name": "Forensic Science BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!89AAA967A2FB90B5BAF2EA66D6711079",
+            "name": "Forensic Science BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4A8",
+            "name": "Forensic Science BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEA3D",
+            "name": "Game Development (Design) MA",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEA48",
+            "name": "Game Development (programming) MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C314346",
+            "name": "Game Development BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D38BB",
+            "name": "Games Technology BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D38BC",
+            "name": "Games Technology BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D38A8",
+            "name": "Games Technology BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED6796",
+            "name": "Geography BSC HONS including Foundation Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C314483",
+            "name": "Geography BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4B5",
+            "name": "Geography BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4B6",
+            "name": "Geography BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF780",
+            "name": "Geography with Professional Placement BSC HONS SW Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF781",
+            "name": "Geography with Professional Placement BSC HONS SW Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!A401FB53368EDDE45E11A1C2B6F2B352",
+            "name": "Geography with Professional Placement BSC HONS SW Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4B1",
+            "name": "Graphic Design BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4B2",
+            "name": "Graphic Design BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4B3",
+            "name": "Graphic Design BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE962",
+            "name": "Graphic Design MA Full Time",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EED22",
+            "name": "Graphic Design MA Part Time Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!A0EC26FDC57797263BC4EA879E7BAD46",
+            "name": "Graphic Design MA Part Time Year 2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE966",
+            "name": "Graphic Design MA Professional Placement",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEA53",
+            "name": "Historic Building Conservation MSC Full Time",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EED96",
+            "name": "Historic Building Conservation MSC Part Time Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EED98",
+            "name": "Historic Building Conservation MSC Part Time Year 2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C31457B",
+            "name": "Hons Nutrition (Human Nutrition) inc Foundation year (4FT) BSC HONS Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4D6",
+            "name": "Human Rights & Criminology BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4D1",
+            "name": "Human Rights & Criminology BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4D2",
+            "name": "Human Rights & Criminology BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4D7",
+            "name": "Human Rights & Social Justice BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FDBD0EDB6ED3D0C0C9F90E22C7968F9B",
+            "name": "Human Rights & Social Justice BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4D8",
+            "name": "Human Rights & Social Justice BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4E1",
+            "name": "Human Rights & Sociology BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4DC",
+            "name": "Human Rights & Sociology BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4DD",
+            "name": "Human Rights & Sociology BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEA57",
+            "name": "Human Rights MA",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4E7",
+            "name": "Illustration Animation BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4E8",
+            "name": "Illustration Animation BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4E9",
+            "name": "Illustration Animation BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE96E",
+            "name": "Illustration MA Full Time",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EED25",
+            "name": "Illustration MA Part Time Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EED27",
+            "name": "Illustration MA Part Time Year 2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE972",
+            "name": "Illustration MA Professional Placement",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!3FF3AAE847C129CB49BFDABA9FD6E580",
+            "name": "Induction  (January) - Information Systems MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!C9429751A1E72F905EC736CED6ECCFE0",
+            "name": "Induction (January) - Accounting & Finance MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CD2AD09563726549D16781253EA6528",
+            "name": "Induction (January) - Aerospace Engineering MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!841DE4DDB3ED477BFD0A20A481826500",
+            "name": "Induction (January) - Analytical Chemistry MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!8E2F8E04554F71940DB7352FA84F7DC9",
+            "name": "Induction (January) - Artificial Intelligence MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!C9429751A1E72F905EC736CED6ECCFE1",
+            "name": "Induction (January) - Banking and Finance MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!5BEF78FA456DC3E20DBAA6B8CEAB6CB8",
+            "name": "Induction (January) - Biomedical Science (Haematology) MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!8CD7F09DD3D3B36253D201390FCC3366",
+            "name": "Induction (January) - Biomedical Science (Haematology) with Management Studies MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!8CD7F09DD3D3B36253D201390FCC3367",
+            "name": "Induction (January) - Biomedical Science (Medical Microbiology) MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!8CD7F09DD3D3B36253D201390FCC3368",
+            "name": "Induction (January) - Biomedical Science (Medical Microbiology) with Management Studies MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!E55F302C0E6F04E191559E1405B36C98",
+            "name": "Induction (January) - Biomedical Science (Medical Microbiology) with Management Studies MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!841DE4DDB3ED477BFD0A20A481826502",
+            "name": "Induction (January) - Cancer Biology MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!3721D466E3D6080C3E24945F6FAC07C8",
+            "name": "Induction (January) - Cancer Biology with Professional Placement MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!B4F12E17559678E4F72DCF58FD324DBB",
+            "name": "Induction (January) - Computer Animation MA",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!11E6D636DAB753F888BCBC958366F2D9",
+            "name": "Induction (January) - Computer Animation with Professional Placement MA",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!D6B7564C850443BC3A74C9F01A4A21AE",
+            "name": "Induction (January) - Data Science MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!11E6D636DAB753F888BCBC958366F2DA",
+            "name": "Induction (January) - Data Science with Professional Placement MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CD2AD09563726549D16781253EA652B",
+            "name": "Induction (January) - Design and Systems Engineering MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!442D922392F50E30AA31749A0FC4B823",
+            "name": "Induction (January) - Electronics and Robotics MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!442D922392F50E30AA31749A0FC4B824",
+            "name": "Induction (January) - Engineering Management MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CCA6D2321B8BA79A7146A76DA121DFE",
+            "name": "Induction (January) - Environmental Management (Energy) MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CCA6D2321B8BA79A7146A76DA121E04",
+            "name": "Induction (January) - Environmental Management (Energy) with Professional Placement MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CCA6D2321B8BA79A7146A76DA121DFF",
+            "name": "Induction (January) - Environmental Management MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CCA6D2321B8BA79A7146A76DA121E05",
+            "name": "Induction (January) - Environmental Management with Professional Placement MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!62ECADBF460CB79411B29AD9A2B2438D",
+            "name": "Induction (January) - Finance MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!C9429751A1E72F905EC736CED6ECCFEF",
+            "name": "Induction (January) - Finance MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!527C4B5A1A6CA3D176E166C10CB2901B",
+            "name": "Induction (January) - Forensic Science (Analysis) MSc with Professional Placement",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!527C4B5A1A6CA3D176E166C10CB2902B",
+            "name": "Induction (January) - Forensic Science (Toxicology) MSc with Professional Placement",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!B4F12E17559678E4F72DCF58FD324E3F",
+            "name": "Induction (January) - Game Development (Design) MA",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!11E6D636DAB753F888BCBC958366F2DB",
+            "name": "Induction (January) - Game Development (Design) with Professional Placement MA",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!D6B7564C850443BC3A74C9F01A4A22A9",
+            "name": "Induction (January) - Game Development (Programming) MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!11E6D636DAB753F888BCBC958366F2DC",
+            "name": "Induction (January) - Game Development (Programming) with Professional Placement MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!C9429751A1E72F905EC736CED6ECCFE9",
+            "name": "Induction (January) - Global Human Resource Management MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!11E6D636DAB753F888BCBC958366F2D8",
+            "name": "Induction (January) - Information Systems MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!C9429751A1E72F905EC736CED6ECCFE3",
+            "name": "Induction (January) - International Business Management MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!C9429751A1E72F905EC736CED6ECCFE2",
+            "name": "Induction (January) - Investment & Financial Risk Management MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!C9429751A1E72F905EC736CED6ECCFE4",
+            "name": "Induction (January) - Logistics and Supply Chain Management MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CCA6D2321B8BA79A7146A76DA121E01",
+            "name": "Induction (January) - Management in Construction (Civil Engineering) MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CCA6D2321B8BA79A7146A76DA121E07",
+            "name": "Induction (January) - Management in Construction (Civil Engineering) with Professional Placement MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CCA6D2321B8BA79A7146A76DA121E00",
+            "name": "Induction (January) - Management in Construction MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CCA6D2321B8BA79A7146A76DA121E06",
+            "name": "Induction (January) - Management in Construction with Professional Placement MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!C9429751A1E72F905EC736CED6ECCFE5",
+            "name": "Induction (January) - Marketing and Brand Management MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!C9429751A1E72F905EC736CED6ECCFE6",
+            "name": "Induction (January) - Master of Business Administration MBA",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!442D922392F50E30AA31749A0FC4B825",
+            "name": "Induction (January) - Mechanical Engineering MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!442D922392F50E30AA31749A0FC4B826",
+            "name": "Induction (January) - Mechatronic Systems MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!B4F12E17559678E4F72DCF58FD324DD2",
+            "name": "Induction (January) - Mobile Networks and Media Streaming MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!11E6D636DAB753F888BCBC958366F2DD",
+            "name": "Induction (January) - Mobile Networks and Media Streaming with Professional Placement MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!D6B7564C850443BC3A74C9F01A4A2367",
+            "name": "Induction (January) - Network & Information Security MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!D6B7564C850443BC3A74C9F01A4A22AC",
+            "name": "Induction (January) - Network & Information Security with Management Studies MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!11E6D636DAB753F888BCBC958366F2DF",
+            "name": "Induction (January) - Network & Information Security with Management Studies with Professional Placement MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!11E6D636DAB753F888BCBC958366F2DE",
+            "name": "Induction (January) - Network & Information Security with Professional Placement MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!68FBDF46B44CD6E44E02571CD9F3EE4E",
+            "name": "Induction (January) - Network and Information Security with Management Studies MSc (January)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!11E6D636DAB753F888BCBC958366F2D3",
+            "name": "Induction (January) - Networking & Data Communications MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!11E6D636DAB753F888BCBC958366F2D4",
+            "name": "Induction (January) - Networking & Data Communications with Management Studies MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!11E6D636DAB753F888BCBC958366F2E0",
+            "name": "Induction (January) - Networking & Data Communications with Management Studies with Professional Placement MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!11E6D636DAB753F888BCBC958366F2E1",
+            "name": "Induction (January) - Networking & Data Communications with Professional Placement MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!C9429751A1E72F905EC736CED6ECCFE7",
+            "name": "Induction (January) - Occupational and Business Psychology MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!841DE4DDB3ED477BFD0A20A481826503",
+            "name": "Induction (January) - Pharmaceutical Analysis MSc (all routes) inc with Professional Placement",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!D6146D72EA8BE91FE714A5AFF6FD3E4D",
+            "name": "Induction (January) - Pharmaceutical Science (inc all routes) MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!841DE4DDB3ED477BFD0A20A481826504",
+            "name": "Induction (January) - Pharmaceutical Science with Management Studies MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!C9429751A1E72F905EC736CED6ECCFE8",
+            "name": "Induction (January) - Real Estate MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!442D922392F50E30AA31749A0FC4B827",
+            "name": "Induction (January) - Renewable Energy Engineering MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!11E6D636DAB753F888BCBC958366F2D6",
+            "name": "Induction (January) - Software Engineering MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!11E6D636DAB753F888BCBC958366F2D5",
+            "name": "Induction (January) - Software Engineering with Management Studies MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!11E6D636DAB753F888BCBC958366F2E2",
+            "name": "Induction (January) - Software Engineering with Management Studies with Professional Placement MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!11E6D636DAB753F888BCBC958366F2E3",
+            "name": "Induction (January) - Software Engineering with Professional Placement MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!A6BA38F64F82FFBE3993C751965FDDD8",
+            "name": "Induction (January) - Step Up PG Dip in Social Work",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CCA6D2321B8BA79A7146A76DA121E03",
+            "name": "Induction (January) - Structural Design & Construction Management MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CCA6D2321B8BA79A7146A76DA121E08",
+            "name": "Induction (January) - Structural Design & Construction Management with Professional Placement MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CCA6D2321B8BA79A7146A76DA121E02",
+            "name": "Induction (January) - Structural Design and Construction Management with Sustainability MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CCA6D2321B8BA79A7146A76DA121E09",
+            "name": "Induction (January) - Structural Design and Construction Management with Sustainability with Professional Placement MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!11E6D636DAB753F888BCBC958366F2D7",
+            "name": "Induction (January) - User Experience Design MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F8EB4D3DE5BAD4EEF12FA4CE3431B096",
+            "name": "Induction (January) - User Experience Design with Professional Placement MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE976",
+            "name": "Information Systems MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEA6E",
+            "name": "Innovation Management and Entrepreneurship MSC  Sept Yr1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C313B13",
+            "name": "Innovation Management and Entrepreneurship MSC Professional Placement",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!52FC31B6F3BBAFBD16CD73F1CF760B26",
+            "name": "Interaction Design BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4E3",
+            "name": "Interior Design BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4E4",
+            "name": "Interior Design BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4E5",
+            "name": "Interior Design BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEA59",
+            "name": "Interior Design MA Full Time",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EED9E",
+            "name": "Interior Design MA Part Time Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!A0EC26FDC57797263BC4EA879E7BAD4C",
+            "name": "Interior Design MA Part Time Year 2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!A0EC26FDC57797263BC4EA879E7BAD4A",
+            "name": "Interior Design MA Professional Placement",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED67A8",
+            "name": "International Business BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED67A9",
+            "name": "International Business BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED67AA",
+            "name": "International Business BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!6837D9ACC03C916F9047308AE1B3C02F",
+            "name": "International Business Management MSC (Jan 26)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEA7B",
+            "name": "International Business Management MSC SEPT",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEA99",
+            "name": "International Business Management with Entrepreneurship MSC Sept Yr1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEA76",
+            "name": "International Business Management with Marketing MSC Sept Yr1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEAA7",
+            "name": "International Business Management with Project Management MSC Sept Yr1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C3147DF",
+            "name": "International Business with Business Experience BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF81E",
+            "name": "International Business with Business Experience BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF81F",
+            "name": "International Business with Business Experience BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C3147F3",
+            "name": "International Law with Professional Experience LLB Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF834",
+            "name": "International Law with Professional Experience LLB Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF835",
+            "name": "International Law with Professional Experience LLB Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEA5E",
+            "name": "Investment & Financial Risk Management MSC Sept Yr1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4FF",
+            "name": "Journalism & Media BA HONS - Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4FC",
+            "name": "Journalism & Media BA HONS - Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4FD",
+            "name": "Journalism & Media BA HONS - Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4F6",
+            "name": "Journalism BA HONS Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4F4",
+            "name": "Journalism BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF4F5",
+            "name": "Journalism BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEAD5",
+            "name": "Journalism MA",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C313DC0",
+            "name": "Journalism MA PT Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D32EB",
+            "name": "Journalism with Creative Writing BA HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4FDC2C0DD45355A70A4EA9462D234E6F",
+            "name": "Journalism with English Literature BA HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEADA",
+            "name": "Landscape Architecture MLA Full Time Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEADB",
+            "name": "Landscape Architecture MLA Full Time Year 2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEDC4",
+            "name": "Landscape Architecture MLA Part Time Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEDC5",
+            "name": "Landscape Architecture MLA Part Time Year 2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!8A7C69677A875C00E25146917F106795",
+            "name": "Landscape Architecture MLA Part Time Year 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!8A7C69677A875C00E25146917F106796",
+            "name": "Landscape Architecture MLA Part Time Year 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C313DC6",
+            "name": "Law LLM",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C3147EA",
+            "name": "Law with Professional Experience LLB Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C3147EB",
+            "name": "Law with Professional Experience LLB Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C3147EC",
+            "name": "Law with Professional Experience LLB Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEDCF",
+            "name": "Leadership & Management in Health MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEDD1",
+            "name": "Leadership & Management in Health MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEDCC",
+            "name": "Leadership & Management in Health PGCERT",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEDCD",
+            "name": "Leadership & Management in Health PGDIP",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEDCE",
+            "name": "Leadership & Management in Health PGDIP",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEC6B",
+            "name": "Logistics and Supply Chain Management MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3224",
+            "name": "MA Creative Writing and Publishing",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3210",
+            "name": "MA Creative Writing with Publishing",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C313DE9",
+            "name": "MA Managing in the Creative Economy (MACE) Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D2F77",
+            "name": "MA Modern European Philosophy",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D2F9C",
+            "name": "MA Philosophy & Contemporary Critical Theory",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!6B1D98C9857E58BF7F6AB5A82CEC8EAE",
+            "name": "MA Photography MA Part Time Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7D0F9AA3F0BB7B0222C53688681DE308",
+            "name": "MA Public Relations & Corporate Communications (Sept FT)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEB63",
+            "name": "Magazine Journalism MA",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEB46",
+            "name": "Management in Construction (Civil Engineering) MSC (Jan)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!430EC311A330223CD9914C317A3439CE",
+            "name": "Management in Construction (Civil Engineering) MSC - Level 7",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEB47",
+            "name": "Management in Construction (Civil Engineering) with Professional Placement MSCPP - Level 7",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEAE4",
+            "name": "Management in Construction MSC - Level 7",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEAEA",
+            "name": "Management in Construction with Professional Placement MSCPP - Level 7",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEB18",
+            "name": "Managing in the Creative Economy MA",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2B6390614319CADEB6BFB82822048E41",
+            "name": "Marketing & Advertising BSC HONS - Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!994E7806E02EF1B404B414EF55174049",
+            "name": "Marketing & Advertising BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!994E7806E02EF1B404B414EF5517410F",
+            "name": "Marketing & Advertising BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF83C",
+            "name": "Marketing & Advertising with Business Experience BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF83D",
+            "name": "Marketing & Advertising with Business Experience BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF83E",
+            "name": "Marketing & Advertising with Business Experience BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE920",
+            "name": "Marketing & Brand Management MSC JAN Yr1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FB7813899E55E2FE08B644A297A3B0D8",
+            "name": "Marketing & Brand Management MSC JAN Yr2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2B6390614319CADEB6BFB8282204879F",
+            "name": "Marketing & Brand Management MSC SEPT",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!9CAC49D6F9EF56E3916E3C2F9889E37C",
+            "name": "Marketing BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!9CAC49D6F9EF56E3916E3C2F9889E37D",
+            "name": "Marketing BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!9CAC49D6F9EF56E3916E3C2F9889E3BE",
+            "name": "Marketing BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEB10",
+            "name": "Marketing Communications & Advertising MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C313DE3",
+            "name": "Master Business Administration MBA Jan PT Yr 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEB03",
+            "name": "Master Business Administration MBA Jan YR1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEB01",
+            "name": "Master Business Administration MBA Sept FT",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!9A7FF2804045548E4340DBB7B1513067",
+            "name": "Master of Research (Education)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEB0A",
+            "name": "Masters Business Administration with Professional Placement MBAPP",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C314510",
+            "name": "Mathematics BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF509",
+            "name": "Mathematics BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F58144D9C2BA4BABEEED45ECDCEAC4CF",
+            "name": "Mathematics BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!69E657F4A61F192A4BF0EFFB82D080B9",
+            "name": "Mathematics BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF51F",
+            "name": "Mechanical Engineering (Automotive Engineering) BENG HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C314532",
+            "name": "Mechanical Engineering (Automotive Engineering) BENG Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF51E",
+            "name": "Mechanical Engineering (Automotive Engineering) BENG Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF523",
+            "name": "Mechanical Engineering (Automotive) MENG Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF524",
+            "name": "Mechanical Engineering (Automotive) MENG Level 7",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF537",
+            "name": "Mechanical Engineering BENG HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF535",
+            "name": "Mechanical Engineering BENG Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF536",
+            "name": "Mechanical Engineering BENG Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4FDC2C0DD45355A70A4EA9462D234E97",
+            "name": "Mechanical Engineering FOUNDATION Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF53A",
+            "name": "Mechanical Engineering MENG Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF53B",
+            "name": "Mechanical Engineering MENG Level 7",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEB2E",
+            "name": "Mechanical Engineering MSc",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEB6F",
+            "name": "Mechatronic Systems MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D34A8",
+            "name": "Media & Communication and Psychology BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF514",
+            "name": "Media & Communication BA HONS -  Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF513",
+            "name": "Media & Communication BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF515",
+            "name": "Media & Communication including Foundation Year BA HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF516",
+            "name": "Media & Communication including Foundation Year BA HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEB20",
+            "name": "Media & Communication MA",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D34B4",
+            "name": "Media & Communication with Business BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!3E603D3BCD41996227C835E37D98C3D2",
+            "name": "Media Content and Communications BA HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF54A",
+            "name": "Media Skills BA HONS Top Up",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!54635205A8EFEE2CA382E923AFB3927A",
+            "name": "Midwifery - BMid (Hons) Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!3565D517C46391773479365303F57722",
+            "name": "Midwifery - BMid (Hons) Year 2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!3565D517C46391773479365303F57723",
+            "name": "Midwifery - BMid (Hons) Year 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!54635205A8EFEE2CA382E923AFB39279",
+            "name": "Midwifery - BSc Hons",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!54635205A8EFEE2CA382E923AFB3927C",
+            "name": "Midwifery - MMid Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!3565D517C46391773479365303F57724",
+            "name": "Midwifery - MMid Year 2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!3565D517C46391773479365303F57725",
+            "name": "Midwifery - MMid Year 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!54635205A8EFEE2CA382E923AFB3927B",
+            "name": "Midwifery - PGDip",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3E31",
+            "name": "Motorsport Engineering BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3D35",
+            "name": "MPharm Pharmaceutical Science - Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3D33",
+            "name": "MPharm Pharmaceutical Science - Level 7",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!447CBA97F9C84E308BEC2C814D149086",
+            "name": "MSc Advanced Product Design Engineering (Sept)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3CB2",
+            "name": "MSc Biomedical Science",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!430EC311A330223CD9914C317A3439F0",
+            "name": "MSc Embedded Systems (Computer Vision) (Sept)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!430EC311A330223CD9914C317A343A00",
+            "name": "MSc Embedded Systems (Computer Vision) with Mgmt Studies (Jan)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!430EC311A330223CD9914C317A343A06",
+            "name": "MSc Game Development (programming) (Sept)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F84C66C8673DC9037C88C3ECADE98B9",
+            "name": "MSc Global Human Resource Management (FT)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!362D209672DC2B161E67877AD0A535B0",
+            "name": "MSc Global Human Resource Management (PT) Year 2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!85AD877BC363C2BF793468FDE30D7FB2",
+            "name": "MSc International Business Management with Entrepreneurship (Sept FT)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!15ED5832D968ADAAAAF9BF95E59D2F3F",
+            "name": "MSc International Business Management with Marketing (JAN 24)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!C84A9350B677F72C27464F440D059D61",
+            "name": "MSc International Business Management with Marketing (Sept FT)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!205FAE489356B8300414614DB7670847",
+            "name": "MSc International Business Management with Project Management (Sept FT)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D29E3",
+            "name": "MSc International Business Management with Project Management (Sept FT)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!430EC311A330223CD9914C317A343A16",
+            "name": "MSc IT & Strategic Innovation (Sept)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4A13DD26A4AD1BC6AA145C519F616CDF",
+            "name": "MSc Network & Information Security (Jan)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!430EC311A330223CD9914C317A343A19",
+            "name": "MSc Network & Information Security with Management Studies (Sept)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!430EC311A330223CD9914C317A343A1C",
+            "name": "MSc Networking & Data Communications (Sept)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D2F94",
+            "name": "MSc Psychology",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!31FCC3CF6B3DCC3CE9953F6619FB440B",
+            "name": "MSc Software Engineering (Web) (Jan)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!430EC311A330223CD9914C317A343A28",
+            "name": "MSc Software Engineering (Web) (Sept)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4FDC2C0DD45355A70A4EA9462D234D73",
+            "name": "MSc Software Engineering (Web) with Management Studies (Jan)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!430EC311A330223CD9914C317A343A2C",
+            "name": "MSc Software Engineering (Web) with Management Studies (Sept)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3935",
+            "name": "MSc Sustainable Environmental Development with Management Studies",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!430EC311A330223CD9914C317A343A32",
+            "name": "MSc User Experience Design (Sept)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEB4F",
+            "name": "Museum & Gallery Studies MA Full Time",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEDF5",
+            "name": "Museum & Gallery Studies MA Part Time Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEDF7",
+            "name": "Museum & Gallery Studies MA Part Time Year 2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEB53",
+            "name": "Museum & Gallery Studies MA with Professional Placement",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEB28",
+            "name": "Music Education MA",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEB83",
+            "name": "Music MA",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEB81",
+            "name": "Music Performance MMUS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEBC0",
+            "name": "Network & Information Security MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEBB7",
+            "name": "Network & Information Security with Management Studies MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2971713F37DCBA5BA2B81962EFD147DC",
+            "name": "Nursing Associate",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!994E7806E02EF1B404B414EF55174173",
+            "name": "Nursing Associate FDNUR March intake Yr 3 (Occ C)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!47F7D46DF9F56BB2F9B4063D3C4221A3",
+            "name": "Nursing Associate FDNUR March Yr1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!47F7D46DF9F56BB2F9B4063D3C4221D3",
+            "name": "Nursing Associate FDNUR March Yr2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!47F7D46DF9F56BB2F9B4063D3C422201",
+            "name": "Nursing Associate FDNUR Sept Yr2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2A40214921728702C4F47F22C945DDBC",
+            "name": "Nursing Associates - Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2A40214921728702C4F47F22C945DDBD",
+            "name": "Nursing Associates - Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FC9918405D29F4148688D80F515132E2",
+            "name": "Nursing BSc Year 1 - Adult Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!E2FAB3FE5EFBCBAA81A0B3533D7A0D54",
+            "name": "Nursing BSc Year 1 - ALL Fields",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FC9918405D29F4148688D80F515132E3",
+            "name": "Nursing BSc Year 1 - Child Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FC9918405D29F4148688D80F515132E5",
+            "name": "Nursing BSc Year 1 - Learning Disability Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FC9918405D29F4148688D80F515132E4",
+            "name": "Nursing BSc Year 1 - Mental Health Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FC9918405D29F4148688D80F515132F7",
+            "name": "Nursing BSc Year 2 - Adult Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!E2FAB3FE5EFBCBAA81A0B3533D7A0D55",
+            "name": "Nursing BSc Year 2 - ALL Fields",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FC9918405D29F4148688D80F515132F8",
+            "name": "Nursing BSc Year 2 - Child Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FC9918405D29F4148688D80F515132F9",
+            "name": "Nursing BSc Year 2 - Learning Disability Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FC9918405D29F4148688D80F515132FA",
+            "name": "Nursing BSc Year 2 - Mental Health Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FC9918405D29F4148688D80F515132FB",
+            "name": "Nursing BSc Year 3 - Adult Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!E2FAB3FE5EFBCBAA81A0B3533D7A0D56",
+            "name": "Nursing BSc Year 3 - ALL Fields",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FC9918405D29F4148688D80F515132FC",
+            "name": "Nursing BSc Year 3 - Child Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FC9918405D29F4148688D80F515132FD",
+            "name": "Nursing BSc Year 3 - Learning Disability Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FC9918405D29F4148688D80F515132FE",
+            "name": "Nursing BSc Year 3 - Mental Health Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3482",
+            "name": "Nursing MSc Year 1 - Adult Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FC9918405D29F4148688D80F515132F5",
+            "name": "Nursing MSc Year 1 - Adult Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!E2FAB3FE5EFBCBAA81A0B3533D7A0D58",
+            "name": "Nursing MSc Year 1 - ALL Fields",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3486",
+            "name": "Nursing MSc Year 1 - Child Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C313B59",
+            "name": "Nursing MSc Year 1 - LD Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FC9918405D29F4148688D80F515132F6",
+            "name": "Nursing MSc Year 1 - Mental Health Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D35A2",
+            "name": "Nursing MSc Year 1 - MH Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3484",
+            "name": "Nursing MSc Year 2 - Adult Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FC9918405D29F4148688D80F515132FF",
+            "name": "Nursing MSc Year 2 - Adult Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!E2FAB3FE5EFBCBAA81A0B3533D7A0D59",
+            "name": "Nursing MSc Year 2 - ALL Fields",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3488",
+            "name": "Nursing MSc Year 2 - Child Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FDBD0EDB6ED3D0C0C9F90E22C796884B",
+            "name": "Nursing MSc Year 2 - LD Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FC9918405D29F4148688D80F51513300",
+            "name": "Nursing MSc Year 2 - Mental Health Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D35A4",
+            "name": "Nursing MSc Year 2 - MH Field",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!17041ADE1E518A11195733EA256B93E5",
+            "name": "Nursing MSCi",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!3D7CAF5AE823E3172B438A3B24C6C450",
+            "name": "Nutrition (Exercise and Health) BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3D65",
+            "name": "Nutrition (Exercise and Health) BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C31442A",
+            "name": "Nutrition (Exercise and Health) inc Foundation Year BSC HONS Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2B6390614319CADEB6BFB82822048E57",
+            "name": "Nutrition (Human Nutrition) BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF569",
+            "name": "Nutrition (Human Nutrition) BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE929",
+            "name": "Occupational & Business Psychology MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EED09",
+            "name": "Occupational & Business Psychology MSC PT Yr 2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!52FC31B6F3BBAFBD16CD73F1CF76049B",
+            "name": "PFBAN1BAN20/1/B1KU0/Business Analytics MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!52FC31B6F3BBAFBD16CD73F1CF7604E9",
+            "name": "PFDMA1DMA20/1/B1KU0/Digital Marketing and Analytics MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!52FC31B6F3BBAFBD16CD73F1CF7605C4",
+            "name": "PFTPH1TPH20/1/B1KU0/Advanced Therapeutics and Public Health MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!52FC31B6F3BBAFBD16CD73F1CF7605C8",
+            "name": "PFURD1URD20/1/B1KU0/Urban Design MA Full Time",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!3BF9FCB8EE0C3B826D652162B8B775B0",
+            "name": "PGCE Primary",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!3BF9FCB8EE0C3B826D652162B8B775B1",
+            "name": "PGCE Secondary",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3D61",
+            "name": "Pharmaceutical & Chemical Sciences (Top Up) BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!E41BCE9551961ACB759858B7309D9A03",
+            "name": "Pharmaceutical & Chemical Sciences DE SCI FDN DEG Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2B6390614319CADEB6BFB82822048E69",
+            "name": "Pharmaceutical & Chemical Sciences DE SCI FDN DEG Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEBDA",
+            "name": "Pharmaceutical Analysis with Management Studies MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3D49",
+            "name": "Pharmaceutical Science BSc - Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FDBD0EDB6ED3D0C0C9F90E22C7969001",
+            "name": "Pharmaceutical Science BSC HONS inc Foundation year Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!89AAA967A2FB90B5BAF2EA66D671109B",
+            "name": "Pharmaceutical Science BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5C0",
+            "name": "Pharmaceutical Science BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5BB",
+            "name": "Pharmaceutical Science MPHARMSCI Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5BC",
+            "name": "Pharmaceutical Science MPHARMSCI Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5BD",
+            "name": "Pharmaceutical Science MPHARMSCI Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEC03",
+            "name": "Pharmaceutical Science MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEC2D",
+            "name": "Pharmaceutical Science with Management Studies MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED682F",
+            "name": "Pharmaceutical Science with Regulatory Affairs BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FDBD0EDB6ED3D0C0C9F90E22C7969003",
+            "name": "Pharmaceutical Science with Regulatory Affairs BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C314597",
+            "name": "Pharmacology BSC HONS inc Foundation year Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!89AAA967A2FB90B5BAF2EA66D6711098",
+            "name": "Pharmacology BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3B67",
+            "name": "Pharmacology BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF59A",
+            "name": "Pharmacology BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF58C",
+            "name": "Pharmacy MPHAR Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C31458A",
+            "name": "Pharmacy MPHARM Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF58B",
+            "name": "Pharmacy MPHARM Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF58D",
+            "name": "Pharmacy MPHARM Level 7",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C31458F",
+            "name": "Pharmacy with Foundation year at Kingston University MPHARM Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D3A71",
+            "name": "Pharmacy with Foundation year MPHARM Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C314590",
+            "name": "Pharmacy with Foundation year MPHARM Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C314591",
+            "name": "Pharmacy with Foundation year MPHARM Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C314592",
+            "name": "Pharmacy with Foundation year MPHARM PG",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEBFB",
+            "name": "Philosophy MPHILSTUD",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEC00",
+            "name": "Photography (Extended Course) MA Full Time Year 2 (Running out)",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5AB",
+            "name": "Photography BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5AC",
+            "name": "Photography BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5AD",
+            "name": "Photography BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEBFF",
+            "name": "Photography MA Full Time",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!84A487B334E8E27017C5E9BDD45F2DD2",
+            "name": "Primary 5:11 BA HONS QTS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2B455A27F3243C818538EF45055349B3",
+            "name": "Primary 5:11 BA HONS QTS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!3F6ED186CA872DF16EF0F2AF80DDB15C",
+            "name": "Primary 5:11 BA HONS QTS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF597",
+            "name": "Product & Furniture Design BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF598",
+            "name": "Product & Furniture Design BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF599",
+            "name": "Product & Furniture Design BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEBE8",
+            "name": "Product & Furniture Design MA Full Time",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEE34",
+            "name": "Product & Furniture Design MA Part Time Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEE36",
+            "name": "Product & Furniture Design MA Part Time Year 2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEBEC",
+            "name": "Product & Furniture Design MA Professional Placement",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!A71C2256200FA92ED1FB38C707DE9EB3",
+            "name": "Professional Doctorate in Occupational and Business Psychology DOC OP BUS PSY",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEE40",
+            "name": "Professional Practice in Architecture (RIBA Part 3) PG Dip Part Time",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEC11",
+            "name": "Project Management for Creative Practitioners MSC Full Time",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEE3D",
+            "name": "Project Management for Creative Practitioners MSC Part Time Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEE3E",
+            "name": "Project Management for Creative Practitioners MSC Part Time Year 2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5CE",
+            "name": "Psychology BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!EB131A6825A86DFDCBE31A22F5D78304",
+            "name": "Psychology BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!EB131A6825A86DFDCBE31A22F5D7830B",
+            "name": "Psychology BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5CC",
+            "name": "Psychology BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!1AFA3DBEC3DD85C2C21D8D849048769B",
+            "name": "Psychology with Counselling BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!1AFA3DBEC3DD85C2C21D8D849048772C",
+            "name": "Psychology with Counselling BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5D5",
+            "name": "Psychology with Criminology BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5DF",
+            "name": "Psychology with Criminology BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5E7",
+            "name": "Psychology with Sociology BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5E1",
+            "name": "Psychology with Sociology BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5E2",
+            "name": "Psychology with Sociology BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5E3",
+            "name": "Psychology with Sociology BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEC40",
+            "name": "Publishing MA",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5E9",
+            "name": "Publishing with English BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5EA",
+            "name": "Publishing with English BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF6A9",
+            "name": "Quantity Surveying Consultancy BSC HONS - DA YR1 L4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4E599D586213AE8AB842B0188BF34FD9",
+            "name": "Quantity Surveying Consultancy BSC HONS - DA YR2 L4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4E599D586213AE8AB842B0188BF34FDA",
+            "name": "Quantity Surveying Consultancy BSC HONS - DA YR3 L5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4E599D586213AE8AB842B0188BF34FDB",
+            "name": "Quantity Surveying Consultancy BSC HONS - DA YR4 L5 & L6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4E599D586213AE8AB842B0188BF34FDC",
+            "name": "Quantity Surveying Consultancy BSC HONS - DA YR5 L6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5EF",
+            "name": "Quantity Surveying Consultancy BSC HONS - Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5EE",
+            "name": "Quantity Surveying Consultancy BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED6844",
+            "name": "Quantity Surveying Consultancy BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED6845",
+            "name": "Quantity Surveying Consultancy BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5F0",
+            "name": "Quantity Surveying Consultancy BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!A9A2E24B44CE19851E402A07C84EDE88",
+            "name": "Quantity Surveying Consultancy BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED68D0",
+            "name": "Quantity Surveying Consultancy BSC HONS Part- Time Year 2 Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED68CF",
+            "name": "Quantity Surveying Consultancy BSC HONS Part-Time Year 1 Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED68D1",
+            "name": "Quantity Surveying Consultancy BSC HONS Part-Time Year 2 Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF6A0",
+            "name": "Quantity Surveying Consultancy BSC HONS Part-Time Year 3 Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF6A5",
+            "name": "Quantity Surveying Consultancy BSC HONS Part-Time Year 3 Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF6A1",
+            "name": "Quantity Surveying Consultancy BSC HONS Part-Time Year 4 Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF6A6",
+            "name": "Quantity Surveying Consultancy BSC HONS Part-Time Year 4 Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF6A2",
+            "name": "Quantity Surveying Consultancy BSC HONS Part-Time Year 5 Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!F91CEBE60340950C128BD13CFEED68D3",
+            "name": "Quantity Surveying Consultancy BSC HONS Part-Time Year 5 Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF7DB",
+            "name": "Quantity Surveying Consultancy with Professional Placement BSC HONS SW - Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF7DC",
+            "name": "Quantity Surveying Consultancy with Professional Placement BSC HONS SW Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF7DA",
+            "name": "Quantity Surveying Consultancy with Professional Placement BSC HONS SW Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!A401FB53368EDDE45E11A1C2B6F2C863",
+            "name": "Quantity Surveying Consultancy with Professional Placement BSC HONS SW Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D2DA1",
+            "name": "Quantity Surveying MSC - Level 7",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2B6390614319CADEB6BFB82822048956",
+            "name": "Quantity Surveying MSC Year 1 of 2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEC4A",
+            "name": "Quantity Surveying with Professional Placement MSCPP - Level 7",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!EB131A6825A86DFDCBE31A22F5D7829F",
+            "name": "Real Estate Man Business Experience BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!EB131A6825A86DFDCBE31A22F5D782A0",
+            "name": "Real Estate Man Business Experience BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF84E",
+            "name": "Real Estate Man Business Experience BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF853",
+            "name": "Real Estate Man Business Experience with foundation BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF854",
+            "name": "Real Estate Man Business Experience with foundation BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEC54",
+            "name": "Real Estate MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEE73",
+            "name": "Real Estate MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEE75",
+            "name": "Real Estate MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEC50",
+            "name": "Real Estate with professional placement MSCPP",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!88932C0EA69C5D8199A35937F4791B7E",
+            "name": "Registered Nurse (Mental Health) MSCNUR",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEC56",
+            "name": "Renewable Energy Engineering MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!16870477C3C072CCAB6407DEBAA5DCD6",
+            "name": "Robotic Engineering and Artificial Intelligence BEng (Hons)  Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!702EC15D86DE8379C48E95010121CC06",
+            "name": "Robotic Engineering and Artificial Intelligence BEng (Hons) Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!702EC15D86DE8379C48E95010121CC07",
+            "name": "Robotic Engineering and Artificial Intelligence BEng (Hons) Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!16870477C3C072CCAB6407DEBAA5DCD7",
+            "name": "Robotic Engineering and Artificial Intelligence MEng (Hons)  Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!702EC15D86DE8379C48E95010121CC08",
+            "name": "Robotic Engineering and Artificial Intelligence MEng (Hons)  Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!702EC15D86DE8379C48E95010121CC09",
+            "name": "Robotic Engineering and Artificial Intelligence MEng (Hons)  Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!702EC15D86DE8379C48E95010121CC0A",
+            "name": "Robotic Engineering and Artificial Intelligence MEng (Hons)  Level 7",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF62F",
+            "name": "Social Work  (Apprenticeship) BA HONS  Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF630",
+            "name": "Social Work (Apprenticeship) BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!39842172FF5A9908F9AEEA84AE5A1CB6",
+            "name": "Social Work (Apprenticeship) BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2971713F37DCBA5BA2B81962EFD147DE",
+            "name": "Social Work BA HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF62D",
+            "name": "Social Work BA HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF62E",
+            "name": "Social Work BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EECB1",
+            "name": "Social Work MSW Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!39842172FF5A9908F9AEEA84AE5A1729",
+            "name": "Social Work MSW Year 2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4FDC2C0DD45355A70A4EA9462D234E83",
+            "name": "Social Work Practice Education PG Full Field PG CERT",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF612",
+            "name": "Sociology & International Relations BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF613",
+            "name": "Sociology & International Relations BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF614",
+            "name": "Sociology & International Relations BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF60C",
+            "name": "Sociology BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF609",
+            "name": "Sociology BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF60A",
+            "name": "Sociology BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF60B",
+            "name": "Sociology BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!7CC7E0E6DD970A6E2620B0C74E2D38CE",
+            "name": "Software Engineering BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!FDBD0EDB6ED3D0C0C9F90E22C7968942",
+            "name": "Software Engineering with Professional Placement MSCPP",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!191D81F3E181FBA467143E27C31CA99C",
+            "name": "Sport and Exercise Science (Coaching) BSC HONS including Foundation Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!191D81F3E181FBA467143E27C31CA9A3",
+            "name": "Sport and Exercise Science (Nutrition) BSC HONS including Foundation Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!0189DA7D6DCEE5068CA5CEC9180CA43F",
+            "name": "Sport and Exercise Science (Nutrition) BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2B279C2C371ED009977D4D2F7B3F838C",
+            "name": "Sport and Exercise Science (Nutrition) BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!191D81F3E181FBA467143E27C31CA99D",
+            "name": "Sport and Exercise Science BSC HONS including Foundation Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!0189DA7D6DCEE5068CA5CEC9180CA43E",
+            "name": "Sport and Exercise Science BSC HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!2B279C2C371ED009977D4D2F7B3F8392",
+            "name": "Sport and Exercise Science BSC HONS Level 5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5FF",
+            "name": "Sport Science (Coaching) BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF5FE",
+            "name": "Sport Science (Coaching) BSC HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF619",
+            "name": "Sport Science BSC HONS  Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!05CE602D3E08CDDC58A39DAA4C314604",
+            "name": "Sport Science inc Foundation year  BSC HONS Level 3",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF625",
+            "name": "Sport Science with Business BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF626",
+            "name": "Sport Science with Business BSC HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEC7F",
+            "name": "Structural Design and Construction Management MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEC7C",
+            "name": "Structural Design and Construction Management MSC - Level 7",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!31FCC3CF6B3DCC3CE9953F6619FB43EC",
+            "name": "Structural Design and Construction Management with Sustainability MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE98C",
+            "name": "Structural Design and Construction Management with Sustainability MSC",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EE992",
+            "name": "Structural Design and Construction Management with Sustainability with Professional Placement MSCPP - Level 7",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEC78",
+            "name": "Sustainable Design MA FT with Professional Placement",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEC74",
+            "name": "Sustainable Design MA Full Time",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEEAF",
+            "name": "Sustainable Design MA Part Time Year 1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EEEB1",
+            "name": "Sustainable Design MA Part Time Year 2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!A0EC26FDC57797263BC4EA879E7BAD48",
+            "name": "Sustainable Fashion: Business and Practices MA Full Time",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!52FC31B6F3BBAFBD16CD73F1CF760A4A",
+            "name": "UFBME1BME20/3/B1KU0/Business Management and Entrepreneurship BSC HONS - Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!DA85B1CDDB5CD08E4644CB033D9E6AE4",
+            "name": "UFLCJ1LCJ20/0/B1KU0/Law & Criminal Justice LLB HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!DA85B1CDDB5CD08E4644CB033D9E6B06",
+            "name": "UFLCJ1LCJ20/1/B1KU0/Law & Criminal Justice LLB HONS Level 4",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!52FC31B6F3BBAFBD16CD73F1CF760B33",
+            "name": "UFLLB1LLB20/0/B1KU0/Law LLB HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!52FC31B6F3BBAFBD16CD73F1CF760B34",
+            "name": "UFLLB1LLB20/1/B1KU0/Law LLB HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!52FC31B6F3BBAFBD16CD73F1CF760B35",
+            "name": "UFLLB1LLB20/2/B1KU0/Law LLB HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!52FC31B6F3BBAFBD16CD73F1CF760B36",
+            "name": "UFLLB1LLB20/3/B1KU0/Law LLB HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!52FC31B6F3BBAFBD16CD73F1CF760B37",
+            "name": "UFLLB1LLB55/0/B1KU0/Law LLB HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!52FC31B6F3BBAFBD16CD73F1CF760B38",
+            "name": "UFLLB1LLB55/1/B1KU0/Law LLB HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!52FC31B6F3BBAFBD16CD73F1CF760B39",
+            "name": "UFLLI1LLI20/1/B1KU0/International Law LLB HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!52FC31B6F3BBAFBD16CD73F1CF760B3D",
+            "name": "UFMCM1MCM20/0/B1KU0/Media Content and Communications BA HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!52FC31B6F3BBAFBD16CD73F1CF760B3E",
+            "name": "UFMCM1MCM20/1/B1KU0/Media Content and Communications BA HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!52FC31B6F3BBAFBD16CD73F1CF760B40",
+            "name": "UFMCM1MCM20/1/B1KU0/Media Content and Communications BA HONS",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4FDC2C0DD45355A70A4EA9462D234D1A",
+            "name": "UG Early Years: Education and Leadership in Practice (Top-Up) BA HONS TU",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!52FC31B6F3BBAFBD16CD73F1CF760C23",
+            "name": "UORLA1RLA77/1/B1KU0/Retail Leadership Degree Apprenticeship BSC HONS L4 YR1",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!3E7D9DE01588E36037AF38CB4B9939A9",
+            "name": "UORLA1RLA77/1/B1KU0/Retail Leadership Degree Apprenticeship BSC HONS L4 YR2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!52FC31B6F3BBAFBD16CD73F1CF760C24",
+            "name": "UORLA1RLA77/2/B1KU0/Retail Leadership Degree Apprenticeship BSC HONS L5",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!3E7D9DE01588E36037AF38CB4B993B9B",
+            "name": "UORLA1RLA77/2/B2KU0/Retail Leadership Degree Apprenticeship BSC HONS L5 YR2",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!9C700FC9FB990E747D400328C90F5478",
+            "name": "Workforce Development - All Modules",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3E9",
+            "name": "Working with Children & Young People:Social Pedagogy BA HONS Level 6",
+            "capacity": null
+        },
+        {
+            "key": "2526!syllabusng_pos!4F0A8CB52C572EC58A62C966045EF3E8",
+            "name": "Working with Children & Young People:Social Pedagogy BA HONS Year 2",
+            "capacity": null
+        }
+    ]
+}
