@@ -32,7 +32,7 @@ export default function Calendar({ events }: CalendarProps) {
                     calendarApi.setOption("headerToolbar", {
                         left: "prev,next today",
                         center: "",
-                        right: "dayGridMonth,timeGridDay",
+                        right: "dayGridMonth,timeGridWeek,timeGridDay",
                     });
                 } else {
                     calendarApi.changeView("timeGridWeek");
@@ -55,7 +55,8 @@ export default function Calendar({ events }: CalendarProps) {
     // Transform ScheduleItems to FullCalendar events
     const calendarEvents = events.map((event) => ({
         id: event.id,
-        title: event.title,
+        title:
+            event.title.slice(0, 30) + (event.title.length > 30 ? "..." : ""),
         start: event.start,
         end: event.end,
         extendedProps: {
@@ -165,6 +166,7 @@ export default function Calendar({ events }: CalendarProps) {
                     stickyHeaderDates={true}
                     nowIndicator={true}
                     dayMaxEvents={true}
+                    selectable={false}
                 />
             </div>
 
