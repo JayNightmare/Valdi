@@ -42,7 +42,7 @@ export default function LoginPage() {
         <div className="min-h-screen bg-background flex flex-col">
             <Navbar />
             <div className="flex h-[calc(100vh-100px)] items-center justify-center bg-background">
-                <div className="w-full max-w-md space-y-8 rounded-xl bg-card p-8 shadow-lg border border-border">
+                <div className="w-full max-w-md space-y-8 rounded-xl bg-card p-6 sm:p-8 shadow-lg border border-border">
                     <div className="text-center">
                         <h2 className="text-3xl font-bold tracking-tight text-card-foreground">
                             Sign in to Valdi

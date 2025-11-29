@@ -25,11 +25,11 @@ export function Navbar() {
                         </span>
                     </Link>
                 </div>
-                <div className="flex items-center gap-4">
+                <div className="flex items-center gap-2 md:gap-4">
                     <Link
                         href="https://github.com/JayNightmare/Valdi"
                         target="_blank"
-                        className="text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
+                        className="hidden md:block text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
                     >
                         GitHub
                     </Link>

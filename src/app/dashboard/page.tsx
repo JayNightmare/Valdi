@@ -6,7 +6,6 @@ import { api } from "@/lib/api";
 import { Module, ScheduleItem } from "@/lib/types";
 import Calendar from "@/components/Calendar";
 import { Button } from "@/components/ui/Button";
-import { Navbar } from "@/components/Navbar";
 
 export default function DashboardPage() {
     const [allModules, setAllModules] = useState<Module[]>([]);
@@ -118,7 +117,7 @@ export default function DashboardPage() {
 
     return (
         <div className="flex h-[calc(100vh-100px)] gap-6">
-            <div className="w-64 flex-shrink-0 overflow-y-auto rounded-lg border border-border bg-card p-4 shadow-sm space-y-6">
+            <div className="w-64 flex-shrink-0 md:inline hidden overflow-y-auto rounded-lg border border-border bg-card p-4 shadow-sm space-y-6">
                 {/* Module Filter */}
                 <div>
                     <div className="mb-4 flex items-center justify-between">
@@ -204,6 +203,14 @@ export default function DashboardPage() {
                         {events.length} events showing
                     </p>
                 </header>
+                {/* Module List Button */}
+                <Button
+                    variant="outline"
+                    className="self-start inline md:hidden"
+                    onClick={() => router.push("/select-modules")}
+                >
+                    Edit Modules
+                </Button>
                 <div className="flex-1 min-h-0">
                     <Calendar events={events} />
                 </div>

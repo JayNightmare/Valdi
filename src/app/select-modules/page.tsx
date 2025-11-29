@@ -115,7 +115,7 @@ export default function SelectModulesPage() {
                     <div className="bg-card rounded-lg shadow-sm border border-border p-6 mb-6">
                         <div className="flex flex-col space-y-4 mb-6">
                             <div className="flex flex-wrap gap-2 items-center justify-between">
-                                <div className="flex gap-2">
+                                <div className="flex flex-wrap gap-2">
                                     {(
                                         ["ALL", "CI4", "CI5", "CI6"] as const
                                     ).map((level) => (
@@ -148,7 +148,7 @@ export default function SelectModulesPage() {
                                             e.target.value as "NAME" | "EVENTS"
                                         )
                                     }
-                                    className="h-8 rounded-md border border-input bg-background px-3 py-1 text-sm shadow-sm transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
+                                    className="h-8 rounded-md border border-input bg-background px-3 py-1 text-sm shadow-sm transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring mt-2 sm:mt-0"
                                 >
                                     <option value="NAME">
                                         Sort by Name (A-Z)
@@ -159,12 +159,12 @@ export default function SelectModulesPage() {
                                 </select>
                             </div>
 
-                            <div className="flex items-center justify-between pt-2 border-t border-border">
+                            <div className="flex flex-wrap items-center justify-between pt-2 border-t border-border gap-2">
                                 <div className="text-sm text-muted-foreground">
                                     {selectedModuleCodes.size} selected (
                                     {filteredModules.length} shown)
                                 </div>
-                                <div className="space-x-2">
+                                <div className="flex flex-wrap gap-2">
                                     <Button
                                         variant="ghost"
                                         onClick={selectAll}

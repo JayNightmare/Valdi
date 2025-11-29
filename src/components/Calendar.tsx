@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect, useRef } from "react";
 import FullCalendar from "@fullcalendar/react";
 import dayGridPlugin from "@fullcalendar/daygrid";
 import timeGridPlugin from "@fullcalendar/timegrid";
@@ -21,6 +21,36 @@ interface CalendarProps {
 
 export default function Calendar({ events }: CalendarProps) {
     const [selectedEvent, setSelectedEvent] = useState<any>(null);
+    const calendarRef = useRef<FullCalendar>(null);
+
+    useEffect(() => {
+        const handleResize = () => {
+            if (calendarRef.current) {
+                const calendarApi = calendarRef.current.getApi();
+                if (window.innerWidth < 900) {
+                    calendarApi.changeView("timeGridDay");
+                    calendarApi.setOption("headerToolbar", {
+                        left: "prev,next today",
+                        center: "",
+                        right: "dayGridMonth,timeGridDay",
+                    });
+                } else {
+                    calendarApi.changeView("timeGridWeek");
+                    calendarApi.setOption("headerToolbar", {
+                        left: "prev,next today",
+                        center: "title",
+                        right: "dayGridMonth,timeGridWeek,timeGridDay",
+                    });
+                }
+            }
+        };
+
+        // Set initial view
+        handleResize();
+
+        window.addEventListener("resize", handleResize);
+        return () => window.removeEventListener("resize", handleResize);
+    }, []);
 
     // Transform ScheduleItems to FullCalendar events
     const calendarEvents = events.map((event) => ({
@@ -36,19 +66,24 @@ export default function Calendar({ events }: CalendarProps) {
     }));
 
     const getEventColor = (type: string) => {
-        const normalizedType = (type || "").toLowerCase();
-        if (normalizedType.includes("lecture"))
+        const normalizedType = type || "";
+        if (normalizedType.includes("Lecture")) {
             return "bg-blue-600 border-blue-700 text-white hover:bg-blue-700";
+        }
         if (
             normalizedType.includes("lab") ||
-            normalizedType.includes("practical")
-        )
+            normalizedType.includes("Specialist Computing")
+        ) {
             return "bg-emerald-600 border-emerald-700 text-white hover:bg-emerald-700";
-        if (normalizedType.includes("seminar"))
+        }
+        if (normalizedType.includes("Drop in Session")) {
             return "bg-violet-600 border-violet-700 text-white hover:bg-violet-700";
-        if (normalizedType.includes("tutorial"))
+        }
+        if (normalizedType.includes("Placeholder")) {
             return "bg-amber-600 border-amber-700 text-white hover:bg-amber-700";
-        return "bg-primary border-primary text-primary-foreground hover:bg-primary/90";
+        } else {
+            return "bg-primary border-primary text-primary-foreground hover:bg-primary/90";
+        }
     };
 
     const renderEventContent = (eventInfo: EventContentArg) => {
@@ -106,6 +141,7 @@ export default function Calendar({ events }: CalendarProps) {
         <>
             <div className="h-full bg-card text-card-foreground p-4 shadow-sm border border-border rounded-lg calendar-wrapper">
                 <FullCalendar
+                    ref={calendarRef}
                     plugins={[dayGridPlugin, timeGridPlugin, interactionPlugin]}
                     initialView="timeGridWeek"
                     headerToolbar={{
