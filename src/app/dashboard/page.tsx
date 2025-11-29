@@ -6,6 +6,7 @@ import { api } from "@/lib/api";
 import { Module, ScheduleItem } from "@/lib/types";
 import Calendar from "@/components/Calendar";
 import { Button } from "@/components/ui/Button";
+import { Navbar } from "@/components/Navbar";
 
 export default function DashboardPage() {
     const [allModules, setAllModules] = useState<Module[]>([]);

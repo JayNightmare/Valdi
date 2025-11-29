@@ -9,6 +9,8 @@ const DATA_FILES = [
     "/data/specific/CompSci-Level6_timetable_2526.csv",
 ];
 
+const mock_token = Math.floor(Math.random() * 1000000).toString();
+
 export const api = {
     login: async (username: string): Promise<User> => {
         // Simulating login
@@ -16,7 +18,7 @@ export const api = {
             setTimeout(() => {
                 resolve({
                     username,
-                    token: "mock-token-123",
+                    token: mock_token,
                 });
             }, MOCK_DELAY);
         });
