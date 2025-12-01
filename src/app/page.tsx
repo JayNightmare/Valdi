@@ -8,7 +8,10 @@ import { Calendar, Filter, Clock, ArrowRight } from "lucide-react";
 export default function HomePage() {
     const router = useRouter();
 
-    const loggedIn = localStorage.getItem("valdi_token") ? true : false;
+    const loggedIn =
+        typeof window !== "undefined" && localStorage.getItem("valdi_token")
+            ? true
+            : false;
 
     return (
         <div className="min-h-screen bg-background flex flex-col">
