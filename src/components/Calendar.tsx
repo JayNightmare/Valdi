@@ -13,13 +13,16 @@ import {
     Clock,
     BookOpen,
     Calendar as CalendarIcon,
+    ExternalLink,
 } from "lucide-react";
+import { getMapUrl } from "@/lib/csv-parser";
 
 interface CalendarProps {
     events: ScheduleItem[];
+    onViewMap?: (location: string) => void;
 }
 
-export default function Calendar({ events }: CalendarProps) {
+export default function Calendar({ events, onViewMap }: CalendarProps) {
     const [selectedEvent, setSelectedEvent] = useState<any>(null);
     const calendarRef = useRef<FullCalendar>(null);
 
@@ -211,9 +214,31 @@ export default function Calendar({ events }: CalendarProps) {
 
                             <div className="flex items-center gap-3">
                                 <MapPin className="w-5 h-5 text-muted-foreground" />
-                                <p className="font-medium">
-                                    {selectedEvent.location}
-                                </p>
+                                <div>
+                                    <p className="font-medium">
+                                        {selectedEvent.location}
+                                    </p>
+                                    <button
+                                        onClick={(e) => {
+                                            e.preventDefault();
+                                            if (onViewMap) {
+                                                onViewMap(
+                                                    selectedEvent.location
+                                                );
+                                            } else {
+                                                window.open(
+                                                    getMapUrl(
+                                                        selectedEvent.location
+                                                    ),
+                                                    "_blank"
+                                                );
+                                            }
+                                        }}
+                                        className="text-xs text-blue-500 hover:underline flex items-center gap-1 mt-0.5 bg-transparent border-none p-0 cursor-pointer"
+                                    >
+                                        View on Map <ExternalLink size={12} />
+                                    </button>
+                                </div>
                             </div>
 
                             <div className="flex items-center gap-3">

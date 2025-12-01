@@ -8,6 +8,8 @@ import { Calendar, Filter, Clock, ArrowRight } from "lucide-react";
 export default function HomePage() {
     const router = useRouter();
 
+    const loggedIn = localStorage.getItem("valdi_token") ? true : false;
+
     return (
         <div className="min-h-screen bg-background flex flex-col">
             <Navbar />
@@ -30,7 +32,13 @@ export default function HomePage() {
                     {/* CTA Button */}
                     <div className="pt-4 flex justify-center gap-4">
                         <Button
-                            onClick={() => router.push("/login")}
+                            onClick={() => {
+                                if (loggedIn) {
+                                    router.push("/dashboard");
+                                } else {
+                                    router.push("/login");
+                                }
+                            }}
                             size="lg"
                             className="text-lg px-8 h-12 rounded-full font-medium"
                         >
@@ -49,7 +57,7 @@ export default function HomePage() {
                                 Calendar View
                             </h3>
                             <p className="text-sm text-muted-foreground">
-                                Visualize your week at a glance with our clean
+                                Visualise your week at a glance with our clean
                                 calendar interface.
                             </p>
                         </div>
@@ -72,7 +80,7 @@ export default function HomePage() {
                                 <Clock className="h-8 w-8" />
                             </div>
                             <h3 className="font-heading font-semibold text-lg">
-                                Real-time Updates
+                                Up to Date Info
                             </h3>
                             <p className="text-sm text-muted-foreground">
                                 Stay up to date with the latest schedule changes
@@ -86,7 +94,7 @@ export default function HomePage() {
             <footer className="py-6 text-center text-sm text-muted-foreground border-t border-border/40">
                 <p>
                     © {new Date().getFullYear()} Valdi. Built for Kingston
-                    University Students.
+                    University Students by Kingston University Students.
                 </p>
             </footer>
         </div>

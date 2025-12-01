@@ -5,9 +5,15 @@ import { useRouter } from "next/navigation";
 import { api } from "@/lib/api";
 import { Module, ScheduleItem } from "@/lib/types";
 import Calendar from "@/components/Calendar";
+import CampusMap from "@/components/CampusMap";
 import { Button } from "@/components/ui/Button";
+import { Calendar as CalendarIcon, Map as MapIcon } from "lucide-react";
 
 export default function DashboardPage() {
+    const [view, setView] = useState<"calendar" | "map">("calendar");
+    const [mapFocusLocation, setMapFocusLocation] = useState<string | null>(
+        null
+    );
     const [allModules, setAllModules] = useState<Module[]>([]);
     const [events, setEvents] = useState<ScheduleItem[]>([]);
     const [loading, setLoading] = useState(true);
@@ -107,6 +113,11 @@ export default function DashboardPage() {
         );
     };
 
+    const handleViewMap = (location: string) => {
+        setMapFocusLocation(location);
+        setView("map");
+    };
+
     if (loading) {
         return (
             <div className="flex h-full items-center justify-center">
@@ -195,13 +206,39 @@ export default function DashboardPage() {
             </div>
 
             <div className="flex-1 flex flex-col space-y-6 overflow-hidden">
-                <header className="flex-shrink-0">
-                    <h1 className="text-3xl font-bold leading-tight tracking-tight text-foreground">
-                        My Timetable
-                    </h1>
-                    <p className="text-muted-foreground">
-                        {events.length} events showing
-                    </p>
+                <header className="flex-shrink-0 flex justify-between items-center">
+                    <div>
+                        <h1 className="text-3xl font-bold leading-tight tracking-tight text-foreground">
+                            My Timetable
+                        </h1>
+                        <p className="text-muted-foreground">
+                            {events.length} events showing
+                        </p>
+                    </div>
+                    <div className="flex bg-muted p-1 rounded-lg border border-border">
+                        <button
+                            onClick={() => setView("calendar")}
+                            className={`flex items-center gap-2 px-3 py-1.5 rounded-md text-sm font-medium transition-all ${
+                                view === "calendar"
+                                    ? "bg-background text-foreground shadow-sm"
+                                    : "text-muted-foreground hover:text-foreground"
+                            }`}
+                        >
+                            <CalendarIcon size={16} />
+                            Calendar
+                        </button>
+                        <button
+                            onClick={() => setView("map")}
+                            className={`flex items-center gap-2 px-3 py-1.5 rounded-md text-sm font-medium transition-all ${
+                                view === "map"
+                                    ? "bg-background text-foreground shadow-sm"
+                                    : "text-muted-foreground hover:text-foreground"
+                            }`}
+                        >
+                            <MapIcon size={16} />
+                            Map
+                        </button>
+                    </div>
                 </header>
                 {/* Module List Button */}
                 <Button
@@ -212,7 +249,14 @@ export default function DashboardPage() {
                     Edit Modules
                 </Button>
                 <div className="flex-1 min-h-0">
-                    <Calendar events={events} />
+                    {view === "calendar" ? (
+                        <Calendar events={events} onViewMap={handleViewMap} />
+                    ) : (
+                        <CampusMap
+                            events={events}
+                            focusLocation={mapFocusLocation}
+                        />
+                    )}
                 </div>
             </div>
         </div>

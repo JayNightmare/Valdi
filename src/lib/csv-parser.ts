@@ -99,3 +99,39 @@ export const fetchAndParseTimetable = async (
         return [];
     }
 };
+
+export const getMapUrl = (location: string): string => {
+    if (!location) return "";
+
+    // Base Google Maps Search URL
+    const baseUrl = "https://www.google.com/maps/search/?api=1&query=";
+
+    // Map common Kingston University prefixes to full names for better search accuracy
+    const campusMap: Record<string, string> = {
+        PR: "Penrhyn Road Campus",
+        KH: "Kingston Hill Campus",
+        RV: "Roehampton Vale Campus",
+        JG: "John Galsworthy Building",
+        MB: "Main Building",
+        TB: "Town House Building",
+        WS: "West Smithfield",
+        REG: "Regent Street",
+    };
+
+    // Split by "." to handle codes like "PR.JG.1003"
+    const parts = location.split(".");
+
+    // Expand known abbreviations
+    const expandedParts = parts.map((part) => {
+        // Remove any trailing numbers or extra chars if mixed (simple check)
+        const cleanPart = part.trim();
+        return campusMap[cleanPart] || cleanPart;
+    });
+
+    // Construct the query
+    // If we expanded something, it's likely a valid building code.
+    // We prepend "Kingston University" to ensure we get the university building, not a generic street.
+    const query = `Kingston University ${expandedParts.join(" ")}`;
+
+    return `${baseUrl}${encodeURIComponent(query)}`;
+};
