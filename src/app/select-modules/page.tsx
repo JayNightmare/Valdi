@@ -107,7 +107,7 @@ export default function SelectModulesPage() {
                             Select Your Modules
                         </h1>
                         <p className="text-muted-foreground">
-                            Choose which modules you'd like to see in your
+                            Choose which modules you&apos;d like to see in your
                             timetable
                         </p>
                     </div>

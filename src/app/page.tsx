@@ -73,7 +73,7 @@ export default function HomePage() {
                                 Smart Filtering
                             </h3>
                             <p className="text-sm text-muted-foreground">
-                                Easily filter modules to see only what's
+                                Easily filter modules to see only what&apos;s
                                 relevant to your course.
                             </p>
                         </div>
