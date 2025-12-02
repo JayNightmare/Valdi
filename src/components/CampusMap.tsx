@@ -12,6 +12,7 @@ import { MapPin, Clock, BookOpen } from "lucide-react";
 import { getRoomDirections } from "@/lib/room-utils";
 import { ScheduleItem } from "@/lib/types";
 import "dotenv/config";
+import { getEventProgressStatus } from "@/lib/event-utils";
 
 // Placeholder token - user needs to replace this
 const MAPBOX_TOKEN = process.env.NEXT_PUBLIC_MAPBOX_TOKEN || "";
@@ -284,35 +285,49 @@ export default function CampusMap({
 
                             <div className="space-y-2">
                                 {popupInfo.events?.map(
-                                    (evt: ScheduleItem, i: number) => (
-                                        <div
-                                            key={i}
-                                            className="bg-gray-50 p-2 rounded border border-gray-100 text-xs cursor-pointer hover:bg-blue-50 hover:border-blue-200 transition-colors"
-                                            onClick={() =>
-                                                handleEventClick(evt)
-                                            }
-                                            title="Get directions"
-                                        >
-                                            <div className="font-semibold text-blue-700 truncate">
-                                                {evt.title}
+                                    (evt: ScheduleItem, i: number) => {
+                                        const statusInfo = getEventProgressStatus(
+                                            evt.start,
+                                            evt.end
+                                        );
+                                        return (
+                                            <div
+                                                key={i}
+                                                className="bg-gray-50 p-2 rounded border border-gray-100 text-xs cursor-pointer hover:bg-blue-50 hover:border-blue-200 transition-colors"
+                                                onClick={() =>
+                                                    handleEventClick(evt)
+                                                }
+                                                title="Get directions"
+                                            >
+                                                <div className="flex items-center gap-1.5">
+                                                    {statusInfo.status && (
+                                                        <div
+                                                            className={`w-2 h-2 rounded-full ${statusInfo.color} flex-shrink-0`}
+                                                            title={statusInfo.label}
+                                                        />
+                                                    )}
+                                                    <div className="font-semibold text-blue-700 truncate">
+                                                        {evt.title}
+                                                    </div>
+                                                </div>
+                                                <div className="flex items-center gap-1 text-gray-600 mt-1">
+                                                    <Clock size={10} />
+                                                    <span>
+                                                        {new Date(
+                                                            evt.start
+                                                        ).toLocaleTimeString([], {
+                                                            hour: "2-digit",
+                                                            minute: "2-digit",
+                                                        })}
+                                                    </span>
+                                                </div>
+                                                <div className="flex items-center gap-1 text-gray-600 mt-0.5">
+                                                    <BookOpen size={10} />
+                                                    <span>{evt.location}</span>
+                                                </div>
                                             </div>
-                                            <div className="flex items-center gap-1 text-gray-600 mt-1">
-                                                <Clock size={10} />
-                                                <span>
-                                                    {new Date(
-                                                        evt.start
-                                                    ).toLocaleTimeString([], {
-                                                        hour: "2-digit",
-                                                        minute: "2-digit",
-                                                    })}
-                                                </span>
-                                            </div>
-                                            <div className="flex items-center gap-1 text-gray-600 mt-0.5">
-                                                <BookOpen size={10} />
-                                                <span>{evt.location}</span>
-                                            </div>
-                                        </div>
-                                    )
+                                        );
+                                    }
                                 )}
                             </div>
                         </div>
