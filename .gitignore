@@ -40,3 +40,4 @@ coverage
 
 # Production
 public/production
+tsconfig.tsbuildinfo
