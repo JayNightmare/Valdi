@@ -13,6 +13,7 @@ import Map, {
     NavigationControl,
     MapRef,
 } from "react-map-gl/mapbox";
+// @ts-ignore
 import "mapbox-gl/dist/mapbox-gl.css";
 import { MapPin, Clock, BookOpen } from "lucide-react";
 import { getRoomDirections } from "@/lib/room-utils";

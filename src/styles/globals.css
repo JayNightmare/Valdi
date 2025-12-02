@@ -9,7 +9,6 @@
 
     --card: 0 0% 100%;
     --card-foreground: 222.2 84% 4.9%;
-
     --popover: 0 0% 100%;
     --popover-foreground: 222.2 84% 4.9%;
 
@@ -33,6 +32,10 @@
     --ring: 221.2 83.2% 53.3%;
 
     --radius: 0.5rem;
+
+    --color-starting: #f5b042;
+    --color-ongoing: #42f563;
+    --color-ending: #f54242;
   }
 
   .dark {
@@ -119,4 +122,33 @@
 .fc-theme-standard td,
 .fc-theme-standard th {
   @apply border-border;
+}
+
+.starting {
+  background-color: var(--color-starting);
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+
+}
+
+.ongoing {
+  background-color: var(--color-ongoing);
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+
+}
+
+.ending {
+  background-color: var(--color-ending);
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+@keyframes pulse {
+
+  0%,
+  100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0.2;
+  }
 }
