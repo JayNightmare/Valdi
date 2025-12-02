@@ -1,0 +1,72 @@
+name: Build Android App
+
+on:
+    push:
+        branches:
+            - android
+
+permissions:
+    contents: write
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout source
+              uses: actions/checkout@v4
+
+            - name: Setup Java
+              uses: actions/setup-java@v4
+              with:
+                  distribution: "zulu"
+                  java-version: "17"
+
+            - name: Setup Node.js
+              uses: actions/setup-node@v4
+              with:
+                  node-version: "20"
+                  cache: "npm"
+
+            - name: Install Dependencies
+              run: npm install
+
+            - name: Build Next.js App
+              run: npm run build
+
+            - name: Setup Capacitor
+              run: |
+                  if [ ! -d "android" ]; then
+                    npx cap add android
+            - name: Build APK
+              run: |
+                  cd android
+                  chmod +x gradlew
+                  ./gradlew assembleDebug
+
+            - name: Get version from package.json
+              id: package-version
+              run: echo "version=$(jq -r .version package.json)" >> $GITHUB_OUTPUT
+
+            - name: Create Draft Release
+              uses: softprops/action-gh-release@v1
+              with:
+                  tag_name: v${{ steps.package-version.outputs.version }}
+                  name: Release v${{ steps.package-version.outputs.version }}
+                  draft: true
+                  prerelease: false
+                  files: android/app/build/outputs/apk/debug/app-debug.apk
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+            - name: Upload APK Artifact
+              uses: actions/upload-artifact@v4
+              with:
+                  name: app-debug
+                  path: android/app/build/outputs/apk/debug/app-debug.apk
+
+            - name: Upload APK
+              uses: actions/upload-artifact@v4
+              with:
+                  name: app-debug
+                  path: android/app/build/outputs/apk/debug/app-debug.apk
