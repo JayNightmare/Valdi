@@ -16,6 +16,7 @@ import {
     ExternalLink,
 } from "lucide-react";
 import { getMapUrl } from "@/lib/csv-parser";
+import { getEventProgressStatus } from "@/lib/event-utils";
 
 interface CalendarProps {
     events: ScheduleItem[];
@@ -182,9 +183,23 @@ export default function Calendar({ events, onViewMap }: CalendarProps) {
                             )}`}
                         >
                             <div className="flex justify-between items-start">
-                                <h3 className="text-lg font-bold text-white pr-8">
-                                    {selectedEvent.title}
-                                </h3>
+                                <div className="flex items-center gap-2">
+                                    {(() => {
+                                        const statusInfo = getEventProgressStatus(
+                                            selectedEvent.start,
+                                            selectedEvent.end
+                                        );
+                                        return statusInfo.status ? (
+                                            <div
+                                                className={`w-3 h-3 rounded-full ${statusInfo.color} shadow-lg`}
+                                                title={statusInfo.label}
+                                            />
+                                        ) : null;
+                                    })()}
+                                    <h3 className="text-lg font-bold text-white">
+                                        {selectedEvent.title}
+                                    </h3>
+                                </div>
                                 <button
                                     onClick={() => setSelectedEvent(null)}
                                     className="text-white/80 hover:text-white transition-colors"

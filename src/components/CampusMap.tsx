@@ -1,17 +1,25 @@
 "use client";
 
-import React, { useState, useMemo, useRef, useEffect } from "react";
+import React, {
+    useState,
+    useMemo,
+    useRef,
+    useEffect,
+    useCallback,
+} from "react";
 import Map, {
     Marker,
     Popup,
     NavigationControl,
     MapRef,
 } from "react-map-gl/mapbox";
+// @ts-ignore
 import "mapbox-gl/dist/mapbox-gl.css";
 import { MapPin, Clock, BookOpen } from "lucide-react";
 import { getRoomDirections } from "@/lib/room-utils";
 import { ScheduleItem } from "@/lib/types";
 import "dotenv/config";
+import { getEventProgressStatus } from "@/lib/event-utils";
 
 // Placeholder token - user needs to replace this
 const MAPBOX_TOKEN = process.env.NEXT_PUBLIC_MAPBOX_TOKEN || "";
@@ -128,45 +136,48 @@ export default function CampusMap({
         return grouped;
     }, [todayEvents]);
 
-    const focusOnLocation = (location: string) => {
-        if (!mapRef.current) return;
+    const focusOnLocation = useCallback(
+        (location: string) => {
+            if (!mapRef.current) return;
 
-        // Logic to find building
-        let buildingCode = "";
-        const cleanedLocation = location.replace(/(\d+).*$/, "$1");
+            // Logic to find building
+            let buildingCode = "";
+            const cleanedLocation = location.replace(/(\d+).*$/, "$1");
 
-        const loc = cleanedLocation.trim().toUpperCase();
-        for (const code of Object.keys(BUILDINGS)) {
-            if (loc.includes(code)) {
-                buildingCode = code;
-                break;
+            const loc = cleanedLocation.trim().toUpperCase();
+            for (const code of Object.keys(BUILDINGS)) {
+                if (loc.includes(code)) {
+                    buildingCode = code;
+                    break;
+                }
             }
-        }
 
-        const building = BUILDINGS[buildingCode];
-        if (building) {
-            mapRef.current.flyTo({
-                center: [building.longitude, building.latitude],
-                zoom: 18,
-                pitch: 60,
-                duration: 2000,
-            });
+            const building = BUILDINGS[buildingCode];
+            if (building) {
+                mapRef.current.flyTo({
+                    center: [building.longitude, building.latitude],
+                    zoom: 18,
+                    pitch: 60,
+                    duration: 2000,
+                });
 
-            // Find events for this building to show in popup
-            const eventsForBuilding = buildingEvents[buildingCode] || [];
+                // Find events for this building to show in popup
+                const eventsForBuilding = buildingEvents[buildingCode] || [];
 
-            setPopupInfo({
-                ...building,
-                events: eventsForBuilding,
-            });
-        }
-    };
+                setPopupInfo({
+                    ...building,
+                    events: eventsForBuilding,
+                });
+            }
+        },
+        [buildingEvents]
+    );
 
     useEffect(() => {
         if (focusLocation && mapLoaded) {
             focusOnLocation(focusLocation);
         }
-    }, [focusLocation, mapLoaded, buildingEvents]);
+    }, [focusLocation, mapLoaded, focusOnLocation]);
 
     const handleEventClick = (evt: ScheduleItem) => {
         const cleanedLocation = evt.location.replace(/(\d+).*$/, "$1");
@@ -284,35 +295,55 @@ export default function CampusMap({
 
                             <div className="space-y-2">
                                 {popupInfo.events?.map(
-                                    (evt: ScheduleItem, i: number) => (
-                                        <div
-                                            key={i}
-                                            className="bg-gray-50 p-2 rounded border border-gray-100 text-xs cursor-pointer hover:bg-blue-50 hover:border-blue-200 transition-colors"
-                                            onClick={() =>
-                                                handleEventClick(evt)
-                                            }
-                                            title="Get directions"
-                                        >
-                                            <div className="font-semibold text-blue-700 truncate">
-                                                {evt.title}
+                                    (evt: ScheduleItem, i: number) => {
+                                        const statusInfo =
+                                            getEventProgressStatus(
+                                                evt.start,
+                                                evt.end
+                                            );
+                                        return (
+                                            <div
+                                                key={i}
+                                                className="bg-gray-50 p-2 rounded border border-gray-100 text-xs cursor-pointer hover:bg-blue-50 hover:border-blue-200 transition-colors"
+                                                onClick={() =>
+                                                    handleEventClick(evt)
+                                                }
+                                                title="Get directions"
+                                            >
+                                                <div className="flex items-center gap-1.5">
+                                                    {statusInfo.status && (
+                                                        <div
+                                                            className={`w-2 h-2 rounded-full ${statusInfo.color} flex-shrink-0`}
+                                                            title={
+                                                                statusInfo.label
+                                                            }
+                                                        />
+                                                    )}
+                                                    <div className="font-semibold text-blue-700 truncate">
+                                                        {evt.title}
+                                                    </div>
+                                                </div>
+                                                <div className="flex items-center gap-1 text-gray-600 mt-1">
+                                                    <Clock size={10} />
+                                                    <span>
+                                                        {new Date(
+                                                            evt.start
+                                                        ).toLocaleTimeString(
+                                                            [],
+                                                            {
+                                                                hour: "2-digit",
+                                                                minute: "2-digit",
+                                                            }
+                                                        )}
+                                                    </span>
+                                                </div>
+                                                <div className="flex items-center gap-1 text-gray-600 mt-0.5">
+                                                    <BookOpen size={10} />
+                                                    <span>{evt.location}</span>
+                                                </div>
                                             </div>
-                                            <div className="flex items-center gap-1 text-gray-600 mt-1">
-                                                <Clock size={10} />
-                                                <span>
-                                                    {new Date(
-                                                        evt.start
-                                                    ).toLocaleTimeString([], {
-                                                        hour: "2-digit",
-                                                        minute: "2-digit",
-                                                    })}
-                                                </span>
-                                            </div>
-                                            <div className="flex items-center gap-1 text-gray-600 mt-0.5">
-                                                <BookOpen size={10} />
-                                                <span>{evt.location}</span>
-                                            </div>
-                                        </div>
-                                    )
+                                        );
+                                    }
                                 )}
                             </div>
                         </div>
