@@ -45,13 +45,9 @@ function formatStaffNames(staffColumn: string): string {
     // Split by comma and trim whitespace
     const parts = staffColumn.split(",").map((part) => part.trim());
 
-    // If we have no parts, return empty string
-    if (parts.length === 0) {
-        return "";
-    }
-
     // Helper function to capitalize first letter and lowercase the rest
     const toProperCase = (name: string): string => {
+        if (!name) return "";
         return name.charAt(0).toUpperCase() + name.slice(1).toLowerCase();
     };
 
