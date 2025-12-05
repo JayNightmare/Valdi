@@ -90,6 +90,7 @@ export const fetchAndParseTimetable = async (
                 location: row["Room(s)"],
                 type: row["Type"],
                 moduleCode: row["Module code"],
+                lecturer: row["Staff member(s)"],
             });
         }
 
