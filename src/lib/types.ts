@@ -20,6 +20,7 @@ export interface ScheduleItem {
     location: string;
     type: string; // Changed to string to accommodate CSV values
     moduleCode: string; // Added for filtering
+    lecturer?: string; // Staff member(s) from CSV
 }
 
 export interface User {

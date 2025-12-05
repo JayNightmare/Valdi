@@ -14,6 +14,7 @@ import {
     BookOpen,
     Calendar as CalendarIcon,
     ExternalLink,
+    User,
 } from "lucide-react";
 import { getMapUrl } from "@/lib/csv-parser";
 import { getEventProgressStatus } from "@/lib/event-utils";
@@ -67,6 +68,7 @@ export default function Calendar({ events, onViewMap }: CalendarProps) {
             location: event.location,
             type: event.type,
             moduleCode: event.moduleCode,
+            lecturer: event.lecturer,
         },
     }));
 
@@ -262,6 +264,15 @@ export default function Calendar({ events, onViewMap }: CalendarProps) {
                                     {selectedEvent.type}
                                 </p>
                             </div>
+
+                            {selectedEvent.lecturer && (
+                                <div className="flex items-center gap-3">
+                                    <User className="w-5 h-5 text-muted-foreground" />
+                                    <p className="font-medium">
+                                        {selectedEvent.lecturer}
+                                    </p>
+                                </div>
+                            )}
                         </div>
 
                         <div className="p-4 bg-muted/50 border-t border-border flex justify-end">
