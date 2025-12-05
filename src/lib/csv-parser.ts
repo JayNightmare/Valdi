@@ -35,6 +35,51 @@ function parseCSVLine(line: string): string[] {
     return values;
 }
 
+// Format staff member names from "LAST, FIRST" format to "First Last"
+// Handles multiple staff members in the format "LAST1, FIRST1, LAST2, FIRST2"
+function formatStaffNames(staffColumn: string): string {
+    if (!staffColumn || staffColumn.trim() === "") {
+        return "";
+    }
+
+    // Split by comma and trim whitespace
+    const parts = staffColumn.split(",").map((part) => part.trim());
+
+    // Helper function to capitalize first letter and lowercase the rest
+    const toProperCase = (name: string): string => {
+        if (!name) return "";
+        return name.charAt(0).toUpperCase() + name.slice(1).toLowerCase();
+    };
+
+    const formattedNames: string[] = [];
+
+    // If we have 2 or fewer parts, it's a single person: LAST, FIRST
+    if (parts.length <= 2) {
+        if (parts.length === 2) {
+            const firstName = toProperCase(parts[1]);
+            const lastName = toProperCase(parts[0]);
+            formattedNames.push(`${firstName} ${lastName}`);
+        } else {
+            // Only one name part, just capitalize it
+            formattedNames.push(toProperCase(parts[0]));
+        }
+    } else {
+        // Multiple people: iterate through pairs (LAST, FIRST)
+        for (let i = 0; i < parts.length; i += 2) {
+            if (i + 1 < parts.length) {
+                const lastName = toProperCase(parts[i]);
+                const firstName = toProperCase(parts[i + 1]);
+                formattedNames.push(`${firstName} ${lastName}`);
+            } else {
+                // Odd number of parts, handle the last one
+                formattedNames.push(toProperCase(parts[i]));
+            }
+        }
+    }
+
+    return formattedNames.join(", ");
+}
+
 export const fetchAndParseTimetable = async (
     url: string
 ): Promise<ScheduleItem[]> => {
@@ -90,7 +135,7 @@ export const fetchAndParseTimetable = async (
                 location: row["Room(s)"],
                 type: row["Type"],
                 moduleCode: row["Module code"],
-                lecturer: row["Staff member(s)"],
+                lecturer: formatStaffNames(row["Staff member(s)"]),
             });
         }
 
